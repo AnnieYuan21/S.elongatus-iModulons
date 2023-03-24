@@ -1,0 +1,23 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NC_004990.1 1 7835
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1140
+NC_004990.1	RefSeq	region	1	7835	.	+	.	ID=NC_004990.1:1..7835;Dbxref=taxon:1140;Is_circular=true;Name=pUH24;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Synechococcus sp. PCC 7942;plasmid-name=pUH24;strain=PCC 7942
+NC_004990.1	RefSeq	gene	574	1161	.	-	.	ID=gene-HTX97_RS00010;Name=HTX97_RS00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00010;old_locus_tag=pUH24_03%2CST32046_p3
+NC_004990.1	GeneMarkS-2+	CDS	574	1161	.	-	0	ID=cds-WP_192963997.1;Parent=gene-HTX97_RS00010;Dbxref=GenBank:WP_192963997.1;Name=WP_192963997.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00010;product=hypothetical protein;protein_id=WP_192963997.1;transl_table=11
+NC_004990.1	RefSeq	gene	1485	1928	.	+	.	ID=gene-HTX97_RS00015;Name=HTX97_RS00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00015;old_locus_tag=pUH24_04%2CST32046_p4
+NC_004990.1	GeneMarkS-2+	CDS	1485	1928	.	+	0	ID=cds-WP_011117340.1;Parent=gene-HTX97_RS00015;Dbxref=GenBank:WP_011117340.1;Name=WP_011117340.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00015;product=hemolysin XhlA family protein;protein_id=WP_011117340.1;transl_table=11
+NC_004990.1	RefSeq	gene	2644	3159	.	-	.	ID=gene-HTX97_RS00020;Name=HTX97_RS00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00020;old_locus_tag=pUH24_06%2CST32046_p6
+NC_004990.1	GeneMarkS-2+	CDS	2644	3159	.	-	0	ID=cds-WP_011117342.1;Parent=gene-HTX97_RS00020;Dbxref=GenBank:WP_011117342.1;Name=WP_011117342.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00020;product=hypothetical protein;protein_id=WP_011117342.1;transl_table=11
+NC_004990.1	RefSeq	gene	3567	3992	.	-	.	ID=gene-HTX97_RS00025;Name=HTX97_RS00025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00025;old_locus_tag=pUH24_07%2CST32046_p7
+NC_004990.1	GeneMarkS-2+	CDS	3567	3992	.	-	0	ID=cds-WP_192964000.1;Parent=gene-HTX97_RS00025;Dbxref=GenBank:WP_192964000.1;Name=WP_192964000.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00025;product=hypothetical protein;protein_id=WP_192964000.1;transl_table=11
+NC_004990.1	RefSeq	gene	3995	6625	.	-	.	ID=gene-HTX97_RS00030;Name=HTX97_RS00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00030;old_locus_tag=pUH24_08%2CST32046_p8
+NC_004990.1	Protein Homology	CDS	3995	6625	.	-	0	ID=cds-WP_011117344.1;Parent=gene-HTX97_RS00030;Dbxref=GenBank:WP_011117344.1;Name=WP_011117344.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF020811.2;locus_tag=HTX97_RS00030;product=bifunctional DNA primase/polymerase;protein_id=WP_011117344.1;transl_table=11
+NC_004990.1	RefSeq	gene	6605	6793	.	+	.	ID=gene-HTX97_RS00035;Name=HTX97_RS00035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00035
+NC_004990.1	GeneMarkS-2+	CDS	6605	6793	.	+	0	ID=cds-WP_192963991.1;Parent=gene-HTX97_RS00035;Dbxref=GenBank:WP_192963991.1;Name=WP_192963991.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00035;product=hypothetical protein;protein_id=WP_192963991.1;transl_table=11
+NC_004990.1	RefSeq	gene	6800	7402	.	-	.	ID=gene-HTX97_RS00040;Name=HTX97_RS00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00040
+NC_004990.1	GeneMarkS-2+	CDS	6800	7402	.	-	0	ID=cds-WP_011117345.1;Parent=gene-HTX97_RS00040;Dbxref=GenBank:WP_011117345.1;Name=WP_011117345.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00040;product=hypothetical protein;protein_id=WP_011117345.1;transl_table=11
+NC_004990.1	RefSeq	gene	7504	8145	.	-	.	ID=gene-HTX97_RS00005;Name=HTX97_RS00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HTX97_RS00005;old_locus_tag=pUH24_01%2CST32046_p1
+NC_004990.1	GeneMarkS-2+	CDS	7504	8145	.	-	0	ID=cds-WP_264285621.1;Parent=gene-HTX97_RS00005;Dbxref=GenBank:WP_264285621.1;Name=WP_264285621.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HTX97_RS00005;product=hypothetical protein;protein_id=WP_264285621.1;transl_table=11
+

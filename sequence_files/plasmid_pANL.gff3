@@ -1,0 +1,112 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP000101.1 1 46366
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1140
+CP000101.1	Genbank	region	1	46366	.	+	.	ID=CP000101.1:1..46366;Dbxref=taxon:1140;Is_circular=true;Name=1;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Synechococcus elongatus PCC 7942;plasmid-name=1;strain=PCC 7942
+CP000101.1	Genbank	gene	65	394	.	-	.	ID=gene-Synpcc7942_B2615;Name=Synpcc7942_B2615;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2615
+CP000101.1	Genbank	CDS	65	394	.	-	0	ID=cds-ABB58644.1;Parent=gene-Synpcc7942_B2615;Dbxref=NCBI_GP:ABB58644.1;Name=ABB58644.1;gbkey=CDS;locus_tag=Synpcc7942_B2615;product=conserved hypothetical protein;protein_id=ABB58644.1;transl_table=11
+CP000101.1	Genbank	gene	497	1321	.	-	.	ID=gene-Synpcc7942_B2626;Name=Synpcc7942_B2626;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2626
+CP000101.1	Genbank	CDS	497	1321	.	-	0	ID=cds-ABB58655.1;Parent=gene-Synpcc7942_B2626;Dbxref=NCBI_GP:ABB58655.1;Name=ABB58655.1;gbkey=CDS;locus_tag=Synpcc7942_B2626;product=hypothetical protein;protein_id=ABB58655.1;transl_table=11
+CP000101.1	Genbank	gene	1318	1929	.	-	.	ID=gene-Synpcc7942_B2637;Name=Synpcc7942_B2637;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2637
+CP000101.1	Genbank	CDS	1318	1929	.	-	0	ID=cds-ABB58666.1;Parent=gene-Synpcc7942_B2637;Dbxref=NCBI_GP:ABB58666.1;Name=ABB58666.1;gbkey=CDS;locus_tag=Synpcc7942_B2637;product=ParA-like protein;protein_id=ABB58666.1;transl_table=11
+CP000101.1	Genbank	gene	2063	2329	.	+	.	ID=gene-Synpcc7942_B2648;Name=Synpcc7942_B2648;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2648
+CP000101.1	Genbank	CDS	2063	2329	.	+	0	ID=cds-ABB58677.1;Parent=gene-Synpcc7942_B2648;Dbxref=NCBI_GP:ABB58677.1;Name=ABB58677.1;gbkey=CDS;locus_tag=Synpcc7942_B2648;product=hypothetical protein;protein_id=ABB58677.1;transl_table=11
+CP000101.1	Genbank	gene	2340	2723	.	+	.	ID=gene-Synpcc7942_B2659;Name=Synpcc7942_B2659;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2659
+CP000101.1	Genbank	CDS	2340	2723	.	+	0	ID=cds-ABB58688.1;Parent=gene-Synpcc7942_B2659;Dbxref=NCBI_GP:ABB58688.1;Name=ABB58688.1;gbkey=CDS;locus_tag=Synpcc7942_B2659;product=nucleic acid-binding protein%2Ccontains PIN domain;protein_id=ABB58688.1;transl_table=11
+CP000101.1	Genbank	gene	2720	3070	.	-	.	ID=gene-Synpcc7942_B2654;Name=Synpcc7942_B2654;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2654
+CP000101.1	Genbank	CDS	2720	3070	.	-	0	ID=cds-ABB58683.1;Parent=gene-Synpcc7942_B2654;Dbxref=NCBI_GP:ABB58683.1;Name=ABB58683.1;gbkey=CDS;locus_tag=Synpcc7942_B2654;product=conserved hypothetical protein;protein_id=ABB58683.1;transl_table=11
+CP000101.1	Genbank	gene	3160	5040	.	-	.	ID=gene-Synpcc7942_B2661;Name=Synpcc7942_B2661;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2661
+CP000101.1	Genbank	CDS	3160	5040	.	-	0	ID=cds-ABB58690.1;Parent=gene-Synpcc7942_B2661;Dbxref=NCBI_GP:ABB58690.1;Name=ABB58690.1;gbkey=CDS;locus_tag=Synpcc7942_B2661;product=cysteine desulfurase;protein_id=ABB58690.1;transl_table=11
+CP000101.1	Genbank	gene	5275	6195	.	-	.	ID=gene-Synpcc7942_B2662;Name=Synpcc7942_B2662;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2662
+CP000101.1	Genbank	CDS	5275	6195	.	-	0	ID=cds-ABB58691.1;Parent=gene-Synpcc7942_B2662;Dbxref=NCBI_GP:ABB58691.1;Name=ABB58691.1;gbkey=CDS;locus_tag=Synpcc7942_B2662;product=major membrane protein I;protein_id=ABB58691.1;transl_table=11
+CP000101.1	Genbank	gene	6290	7249	.	-	.	ID=gene-Synpcc7942_B2663;Name=Synpcc7942_B2663;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2663
+CP000101.1	Genbank	CDS	6290	7249	.	-	0	ID=cds-ABB58692.1;Parent=gene-Synpcc7942_B2663;Dbxref=NCBI_GP:ABB58692.1;Name=ABB58692.1;gbkey=CDS;locus_tag=Synpcc7942_B2663;product=putative serine acetyltransferase;protein_id=ABB58692.1;transl_table=11
+CP000101.1	Genbank	gene	7246	8235	.	-	.	ID=gene-Synpcc7942_B2664;Name=Synpcc7942_B2664;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2664
+CP000101.1	Genbank	CDS	7246	8235	.	-	0	ID=cds-ABB58693.1;Parent=gene-Synpcc7942_B2664;Dbxref=NCBI_GP:ABB58693.1;Name=ABB58693.1;gbkey=CDS;locus_tag=Synpcc7942_B2664;product=cysteine synthase;protein_id=ABB58693.1;transl_table=11
+CP000101.1	Genbank	gene	8691	9050	.	+	.	ID=gene-Synpcc7942_B2616;Name=Synpcc7942_B2616;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2616
+CP000101.1	Genbank	CDS	8691	9050	.	+	0	ID=cds-ABB58645.1;Parent=gene-Synpcc7942_B2616;Dbxref=NCBI_GP:ABB58645.1;Name=ABB58645.1;gbkey=CDS;locus_tag=Synpcc7942_B2616;product=conserved hypothetical protein;protein_id=ABB58645.1;transl_table=11
+CP000101.1	Genbank	gene	9300	9845	.	-	.	ID=gene-Synpcc7942_B2617;Name=Synpcc7942_B2617;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2617
+CP000101.1	Genbank	CDS	9300	9845	.	-	0	ID=cds-ABB58646.1;Parent=gene-Synpcc7942_B2617;Dbxref=NCBI_GP:ABB58646.1;Name=ABB58646.1;gbkey=CDS;locus_tag=Synpcc7942_B2617;product=conserved hypothetical protein;protein_id=ABB58646.1;transl_table=11
+CP000101.1	Genbank	gene	9947	10381	.	+	.	ID=gene-Synpcc7942_B2618;Name=Synpcc7942_B2618;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2618
+CP000101.1	Genbank	CDS	9947	10381	.	+	0	ID=cds-ABB58647.1;Parent=gene-Synpcc7942_B2618;Dbxref=NCBI_GP:ABB58647.1;Name=ABB58647.1;gbkey=CDS;locus_tag=Synpcc7942_B2618;product=conserved hypothetical protein;protein_id=ABB58647.1;transl_table=11
+CP000101.1	Genbank	gene	10600	11178	.	+	.	ID=gene-Synpcc7942_B2619;Name=Synpcc7942_B2619;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2619
+CP000101.1	Genbank	CDS	10600	11178	.	+	0	ID=cds-ABB58648.1;Parent=gene-Synpcc7942_B2619;Dbxref=NCBI_GP:ABB58648.1;Name=ABB58648.1;gbkey=CDS;locus_tag=Synpcc7942_B2619;product=carbonic anhydrase%2C putative;protein_id=ABB58648.1;transl_table=11
+CP000101.1	Genbank	gene	11202	12299	.	+	.	ID=gene-Synpcc7942_B2620;Name=Synpcc7942_B2620;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2620
+CP000101.1	Genbank	CDS	11202	12299	.	+	0	ID=cds-ABB58649.1;Parent=gene-Synpcc7942_B2620;Dbxref=NCBI_GP:ABB58649.1;Name=ABB58649.1;gbkey=CDS;locus_tag=Synpcc7942_B2620;product=putative catalase;protein_id=ABB58649.1;transl_table=11
+CP000101.1	Genbank	signal_peptide_region_of_CDS	11202	11375	.	+	.	ID=id-ABB58649.1:1..58;Note=Signal predicted by SignalP 2.0 HMM (Signal peptide probabilty 0.673) with cleavage site probability 0.640 at residue 58;Parent=cds-ABB58649.1;gbkey=Prot
+CP000101.1	Genbank	gene	12400	12948	.	+	.	ID=gene-Synpcc7942_B2621;Name=Synpcc7942_B2621;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2621
+CP000101.1	Genbank	CDS	12400	12948	.	+	0	ID=cds-ABB58650.1;Parent=gene-Synpcc7942_B2621;Dbxref=NCBI_GP:ABB58650.1;Name=ABB58650.1;gbkey=CDS;locus_tag=Synpcc7942_B2621;product=Uncharacterized membrane protein-like;protein_id=ABB58650.1;transl_table=11
+CP000101.1	Genbank	gene	13100	14281	.	+	.	ID=gene-Synpcc7942_B2622;Name=Synpcc7942_B2622;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2622
+CP000101.1	Genbank	CDS	13100	14281	.	+	0	ID=cds-ABB58651.1;Parent=gene-Synpcc7942_B2622;Dbxref=NCBI_GP:ABB58651.1;Name=ABB58651.1;gbkey=CDS;locus_tag=Synpcc7942_B2622;product=probable chromate transport transmembrane protein;protein_id=ABB58651.1;transl_table=11
+CP000101.1	Genbank	gene	14412	15401	.	+	.	ID=gene-Synpcc7942_B2623;Name=Synpcc7942_B2623;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2623
+CP000101.1	Genbank	CDS	14412	15401	.	+	0	ID=cds-ABB58652.1;Parent=gene-Synpcc7942_B2623;Dbxref=NCBI_GP:ABB58652.1;Name=ABB58652.1;gbkey=CDS;locus_tag=Synpcc7942_B2623;product=cysteine synthase A;protein_id=ABB58652.1;transl_table=11
+CP000101.1	Genbank	gene	15398	16924	.	+	.	ID=gene-Synpcc7942_B2624;Name=Synpcc7942_B2624;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2624
+CP000101.1	Genbank	CDS	15398	16924	.	+	0	ID=cds-ABB58653.1;Parent=gene-Synpcc7942_B2624;Dbxref=NCBI_GP:ABB58653.1;Name=ABB58653.1;gbkey=CDS;locus_tag=Synpcc7942_B2624;product=gamma-glutamyltranspeptidase;protein_id=ABB58653.1;transl_table=11
+CP000101.1	Genbank	gene	17149	17676	.	+	.	ID=gene-Synpcc7942_B2625;Name=Synpcc7942_B2625;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2625
+CP000101.1	Genbank	CDS	17149	17676	.	+	0	ID=cds-ABB58654.1;Parent=gene-Synpcc7942_B2625;Dbxref=NCBI_GP:ABB58654.1;Name=ABB58654.1;gbkey=CDS;locus_tag=Synpcc7942_B2625;product=conserved hypothetical protein;protein_id=ABB58654.1;transl_table=11
+CP000101.1	Genbank	gene	17687	18748	.	+	.	ID=gene-Synpcc7942_B2627;Name=Synpcc7942_B2627;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2627
+CP000101.1	Genbank	CDS	17687	18748	.	+	0	ID=cds-ABB58656.1;Parent=gene-Synpcc7942_B2627;Dbxref=NCBI_GP:ABB58656.1;Name=ABB58656.1;gbkey=CDS;locus_tag=Synpcc7942_B2627;product=conserved hypothetical protein;protein_id=ABB58656.1;transl_table=11
+CP000101.1	Genbank	gene	18745	19557	.	+	.	ID=gene-Synpcc7942_B2628;Name=Synpcc7942_B2628;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2628
+CP000101.1	Genbank	CDS	18745	19557	.	+	0	ID=cds-ABB58657.1;Parent=gene-Synpcc7942_B2628;Dbxref=NCBI_GP:ABB58657.1;Name=ABB58657.1;gbkey=CDS;locus_tag=Synpcc7942_B2628;product=sulfonate ABC transporter%2C ATP-binding protein%2C putative;protein_id=ABB58657.1;transl_table=11
+CP000101.1	Genbank	gene	19583	20806	.	+	.	ID=gene-Synpcc7942_B2629;Name=Synpcc7942_B2629;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2629
+CP000101.1	Genbank	CDS	19583	20806	.	+	0	ID=cds-ABB58658.1;Parent=gene-Synpcc7942_B2629;Dbxref=NCBI_GP:ABB58658.1;Name=ABB58658.1;gbkey=CDS;locus_tag=Synpcc7942_B2629;product=sulfonate ABC transporter%2C periplasmic sulfonate-binding protein%2C putative;protein_id=ABB58658.1;transl_table=11
+CP000101.1	Genbank	gene	20808	21608	.	+	.	ID=gene-Synpcc7942_B2630;Name=Synpcc7942_B2630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2630
+CP000101.1	Genbank	CDS	20808	21608	.	+	0	ID=cds-ABB58659.1;Parent=gene-Synpcc7942_B2630;Dbxref=NCBI_GP:ABB58659.1;Name=ABB58659.1;gbkey=CDS;locus_tag=Synpcc7942_B2630;product=sulfonate ABC transporter%2C permease protein%2C putative;protein_id=ABB58659.1;transl_table=11
+CP000101.1	Genbank	signal_peptide_region_of_CDS	20808	20936	.	+	.	ID=id-ABB58659.1:1..43;Note=Signal predicted by SignalP 2.0 HMM (Signal peptide probabilty 0.870) with cleavage site probability 0.856 at residue 43;Parent=cds-ABB58659.1;gbkey=Prot
+CP000101.1	Genbank	gene	21934	22212	.	+	.	ID=gene-Synpcc7942_B2631;Name=Synpcc7942_B2631;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2631
+CP000101.1	Genbank	CDS	21934	22212	.	+	0	ID=cds-ABB58660.1;Parent=gene-Synpcc7942_B2631;Dbxref=NCBI_GP:ABB58660.1;Name=ABB58660.1;gbkey=CDS;locus_tag=Synpcc7942_B2631;product=conserved hypothetical protein;protein_id=ABB58660.1;transl_table=11
+CP000101.1	Genbank	gene	22166	22417	.	+	.	ID=gene-Synpcc7942_B2652;Name=Synpcc7942_B2652;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2652
+CP000101.1	Genbank	CDS	22166	22417	.	+	0	ID=cds-ABB58681.1;Parent=gene-Synpcc7942_B2652;Dbxref=NCBI_GP:ABB58681.1;Name=ABB58681.1;gbkey=CDS;locus_tag=Synpcc7942_B2652;product=hypothetical protein;protein_id=ABB58681.1;transl_table=11
+CP000101.1	Genbank	gene	22675	23511	.	-	.	ID=gene-Synpcc7942_B2655;Name=Synpcc7942_B2655;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2655
+CP000101.1	Genbank	CDS	22675	23511	.	-	0	ID=cds-ABB58684.1;Parent=gene-Synpcc7942_B2655;Dbxref=NCBI_GP:ABB58684.1;Name=ABB58684.1;gbkey=CDS;locus_tag=Synpcc7942_B2655;product=conserved hypothetical protein;protein_id=ABB58684.1;transl_table=11
+CP000101.1	Genbank	gene	23609	24160	.	-	.	ID=gene-Synpcc7942_B2632;Name=Synpcc7942_B2632;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2632
+CP000101.1	Genbank	CDS	23609	24160	.	-	0	ID=cds-ABB58661.1;Parent=gene-Synpcc7942_B2632;Dbxref=NCBI_GP:ABB58661.1;Name=ABB58661.1;gbkey=CDS;locus_tag=Synpcc7942_B2632;product=hypothetical protein;protein_id=ABB58661.1;transl_table=11
+CP000101.1	Genbank	gene	24871	27870	.	+	.	ID=gene-Synpcc7942_B2633;Name=Synpcc7942_B2633;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2633
+CP000101.1	Genbank	CDS	24871	27870	.	+	0	ID=cds-ABB58662.1;Parent=gene-Synpcc7942_B2633;Dbxref=NCBI_GP:ABB58662.1;Name=ABB58662.1;gbkey=CDS;locus_tag=Synpcc7942_B2633;product=hypothetical protein;protein_id=ABB58662.1;transl_table=11
+CP000101.1	Genbank	gene	27980	28894	.	-	.	ID=gene-Synpcc7942_B2656;Name=Synpcc7942_B2656;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2656
+CP000101.1	Genbank	CDS	27980	28894	.	-	0	ID=cds-ABB58685.1;Parent=gene-Synpcc7942_B2656;Dbxref=NCBI_GP:ABB58685.1;Name=ABB58685.1;gbkey=CDS;locus_tag=Synpcc7942_B2656;product=hypothetical protein;protein_id=ABB58685.1;transl_table=11
+CP000101.1	Genbank	gene	29150	29365	.	-	.	ID=gene-Synpcc7942_B2657;Name=Synpcc7942_B2657;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2657
+CP000101.1	Genbank	CDS	29150	29365	.	-	0	ID=cds-ABB58686.1;Parent=gene-Synpcc7942_B2657;Dbxref=NCBI_GP:ABB58686.1;Name=ABB58686.1;gbkey=CDS;locus_tag=Synpcc7942_B2657;product=hypothetical protein;protein_id=ABB58686.1;transl_table=11
+CP000101.1	Genbank	gene	29941	31320	.	-	.	ID=gene-Synpcc7942_B2634;Name=Synpcc7942_B2634;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2634
+CP000101.1	Genbank	CDS	29941	31320	.	-	0	ID=cds-ABB58663.1;Parent=gene-Synpcc7942_B2634;Dbxref=NCBI_GP:ABB58663.1;Name=ABB58663.1;gbkey=CDS;locus_tag=Synpcc7942_B2634;product=conserved hypothetical protein;protein_id=ABB58663.1;transl_table=11
+CP000101.1	Genbank	signal_peptide_region_of_CDS	31273	31320	.	-	.	ID=id-ABB58663.1:1..16;Note=Signal predicted by SignalP 2.0 HMM (Signal peptide probabilty 0.709) with cleavage site probability 0.662 at residue 16;Parent=cds-ABB58663.1;gbkey=Prot
+CP000101.1	Genbank	gene	31738	32697	.	+	.	ID=gene-Synpcc7942_B2635;Name=Synpcc7942_B2635;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2635
+CP000101.1	Genbank	CDS	31738	32697	.	+	0	ID=cds-ABB58664.1;Parent=gene-Synpcc7942_B2635;Dbxref=NCBI_GP:ABB58664.1;Name=ABB58664.1;gbkey=CDS;locus_tag=Synpcc7942_B2635;product=hypothetical protein;protein_id=ABB58664.1;transl_table=11
+CP000101.1	Genbank	signal_peptide_region_of_CDS	31738	31797	.	+	.	ID=id-ABB58664.1:1..20;Note=Signal predicted by SignalP 2.0 HMM (Signal peptide probabilty 1.000) with cleavage site probability 0.500 at residue 20;Parent=cds-ABB58664.1;gbkey=Prot
+CP000101.1	Genbank	gene	33473	33760	.	+	.	ID=gene-Synpcc7942_B2636;Name=Synpcc7942_B2636;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2636
+CP000101.1	Genbank	CDS	33473	33760	.	+	0	ID=cds-ABB58665.1;Parent=gene-Synpcc7942_B2636;Dbxref=NCBI_GP:ABB58665.1;Name=ABB58665.1;gbkey=CDS;locus_tag=Synpcc7942_B2636;product=hypothetical protein;protein_id=ABB58665.1;transl_table=11
+CP000101.1	Genbank	gene	34129	34359	.	-	.	ID=gene-Synpcc7942_B2658;Name=Synpcc7942_B2658;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2658
+CP000101.1	Genbank	CDS	34129	34359	.	-	0	ID=cds-ABB58687.1;Parent=gene-Synpcc7942_B2658;Dbxref=NCBI_GP:ABB58687.1;Name=ABB58687.1;gbkey=CDS;locus_tag=Synpcc7942_B2658;product=hypothetical protein;protein_id=ABB58687.1;transl_table=11
+CP000101.1	Genbank	gene	34543	34836	.	+	.	ID=gene-Synpcc7942_B2638;Name=Synpcc7942_B2638;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2638
+CP000101.1	Genbank	CDS	34543	34836	.	+	0	ID=cds-ABB58667.1;Parent=gene-Synpcc7942_B2638;Dbxref=NCBI_GP:ABB58667.1;Name=ABB58667.1;gbkey=CDS;locus_tag=Synpcc7942_B2638;product=conserved hypothetical protein;protein_id=ABB58667.1;transl_table=11
+CP000101.1	Genbank	gene	34802	35131	.	+	.	ID=gene-Synpcc7942_B2639;Name=Synpcc7942_B2639;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2639
+CP000101.1	Genbank	CDS	34802	35131	.	+	0	ID=cds-ABB58668.1;Parent=gene-Synpcc7942_B2639;Dbxref=NCBI_GP:ABB58668.1;Name=ABB58668.1;gbkey=CDS;locus_tag=Synpcc7942_B2639;product=conserved hypothetical protein;protein_id=ABB58668.1;transl_table=11
+CP000101.1	Genbank	gene	35646	36077	.	-	.	ID=gene-Synpcc7942_B2640;Name=Synpcc7942_B2640;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2640
+CP000101.1	Genbank	CDS	35646	36077	.	-	0	ID=cds-ABB58669.1;Parent=gene-Synpcc7942_B2640;Dbxref=NCBI_GP:ABB58669.1;Name=ABB58669.1;gbkey=CDS;locus_tag=Synpcc7942_B2640;product=conserved hypothetical protein;protein_id=ABB58669.1;transl_table=11
+CP000101.1	Genbank	gene	36267	36392	.	+	.	ID=gene-Synpcc7942_B2641;Name=Synpcc7942_B2641;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2641
+CP000101.1	Genbank	CDS	36267	36392	.	+	0	ID=cds-ABB58670.1;Parent=gene-Synpcc7942_B2641;Dbxref=NCBI_GP:ABB58670.1;Name=ABB58670.1;gbkey=CDS;locus_tag=Synpcc7942_B2641;product=hypothetical protein;protein_id=ABB58670.1;transl_table=11
+CP000101.1	Genbank	gene	36501	37493	.	-	.	ID=gene-Synpcc7942_B2642;Name=Synpcc7942_B2642;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2642
+CP000101.1	Genbank	CDS	36501	37493	.	-	0	ID=cds-ABB58671.1;Parent=gene-Synpcc7942_B2642;Dbxref=NCBI_GP:ABB58671.1;Name=ABB58671.1;gbkey=CDS;locus_tag=Synpcc7942_B2642;product=putative zinc-binding oxidoreductase;protein_id=ABB58671.1;transl_table=11
+CP000101.1	Genbank	gene	37703	38428	.	-	.	ID=gene-Synpcc7942_B2643;Name=Synpcc7942_B2643;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2643
+CP000101.1	Genbank	CDS	37703	38428	.	-	0	ID=cds-ABB58672.1;Parent=gene-Synpcc7942_B2643;Dbxref=NCBI_GP:ABB58672.1;Name=ABB58672.1;gbkey=CDS;locus_tag=Synpcc7942_B2643;product=ThiJ family protein;protein_id=ABB58672.1;transl_table=11
+CP000101.1	Genbank	gene	38521	39228	.	+	.	ID=gene-Synpcc7942_B2644;Name=Synpcc7942_B2644;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2644
+CP000101.1	Genbank	CDS	38521	39228	.	+	0	ID=cds-ABB58673.1;Parent=gene-Synpcc7942_B2644;Dbxref=NCBI_GP:ABB58673.1;Name=ABB58673.1;gbkey=CDS;locus_tag=Synpcc7942_B2644;product=response regulator receiver domain protein (CheY-like);protein_id=ABB58673.1;transl_table=11
+CP000101.1	Genbank	gene	39571	40194	.	+	.	ID=gene-Synpcc7942_B2645;Name=Synpcc7942_B2645;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2645
+CP000101.1	Genbank	CDS	39571	40194	.	+	0	ID=cds-ABB58674.1;Parent=gene-Synpcc7942_B2645;Dbxref=NCBI_GP:ABB58674.1;Name=ABB58674.1;gbkey=CDS;locus_tag=Synpcc7942_B2645;product=conserved hypothetical protein;protein_id=ABB58674.1;transl_table=11
+CP000101.1	Genbank	signal_peptide_region_of_CDS	39571	39645	.	+	.	ID=id-ABB58674.1:1..25;Note=Signal predicted by SignalP 2.0 HMM (Signal peptide probabilty 1.000) with cleavage site probability 0.999 at residue 25;Parent=cds-ABB58674.1;gbkey=Prot
+CP000101.1	Genbank	gene	40470	41786	.	-	.	ID=gene-Synpcc7942_B2646;Name=Synpcc7942_B2646;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2646
+CP000101.1	Genbank	CDS	40470	41786	.	-	0	ID=cds-ABB58675.1;Parent=gene-Synpcc7942_B2646;Dbxref=NCBI_GP:ABB58675.1;Name=ABB58675.1;gbkey=CDS;locus_tag=Synpcc7942_B2646;product=two-component sensor histidine kinase;protein_id=ABB58675.1;transl_table=11
+CP000101.1	Genbank	gene	41755	42429	.	-	.	ID=gene-Synpcc7942_B2647;Name=Synpcc7942_B2647;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2647
+CP000101.1	Genbank	CDS	41755	42429	.	-	0	ID=cds-ABB58676.1;Parent=gene-Synpcc7942_B2647;Dbxref=NCBI_GP:ABB58676.1;Name=ABB58676.1;gbkey=CDS;locus_tag=Synpcc7942_B2647;product=response regulator receiver domain protein (CheY-like);protein_id=ABB58676.1;transl_table=11
+CP000101.1	Genbank	gene	42652	43134	.	+	.	ID=gene-Synpcc7942_B2649;Name=Synpcc7942_B2649;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2649
+CP000101.1	Genbank	CDS	42652	43134	.	+	0	ID=cds-ABB58678.1;Parent=gene-Synpcc7942_B2649;Dbxref=NCBI_GP:ABB58678.1;Name=ABB58678.1;gbkey=CDS;locus_tag=Synpcc7942_B2649;product=hypothetical protein;protein_id=ABB58678.1;transl_table=11
+CP000101.1	Genbank	gene	43298	43888	.	+	.	ID=gene-Synpcc7942_B2650;Name=Synpcc7942_B2650;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2650
+CP000101.1	Genbank	CDS	43298	43888	.	+	0	ID=cds-ABB58679.1;Parent=gene-Synpcc7942_B2650;Dbxref=NCBI_GP:ABB58679.1;Name=ABB58679.1;gbkey=CDS;locus_tag=Synpcc7942_B2650;product=hypothetical protein;protein_id=ABB58679.1;transl_table=11
+CP000101.1	Genbank	gene	43857	44252	.	+	.	ID=gene-Synpcc7942_B2660;Name=Synpcc7942_B2660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2660
+CP000101.1	Genbank	CDS	43857	44252	.	+	0	ID=cds-ABB58689.1;Parent=gene-Synpcc7942_B2660;Dbxref=NCBI_GP:ABB58689.1;Name=ABB58689.1;gbkey=CDS;locus_tag=Synpcc7942_B2660;product=hypothetical protein;protein_id=ABB58689.1;transl_table=11
+CP000101.1	Genbank	gene	44779	45741	.	-	.	ID=gene-Synpcc7942_B2651;Name=Synpcc7942_B2651;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2651
+CP000101.1	Genbank	CDS	44779	45741	.	-	0	ID=cds-ABB58680.1;Parent=gene-Synpcc7942_B2651;Dbxref=NCBI_GP:ABB58680.1;Name=ABB58680.1;gbkey=CDS;locus_tag=Synpcc7942_B2651;product=integrase/recombinase;protein_id=ABB58680.1;transl_table=11
+CP000101.1	Genbank	gene	45831	46181	.	-	.	ID=gene-Synpcc7942_B2653;Name=Synpcc7942_B2653;gbkey=Gene;gene_biotype=protein_coding;locus_tag=Synpcc7942_B2653
+CP000101.1	Genbank	CDS	45831	46181	.	-	0	ID=cds-ABB58682.1;Parent=gene-Synpcc7942_B2653;Dbxref=NCBI_GP:ABB58682.1;Name=ABB58682.1;gbkey=CDS;locus_tag=Synpcc7942_B2653;product=transcriptional modulator of MazE/toxin%2C MazF;protein_id=ABB58682.1;transl_table=11
+
