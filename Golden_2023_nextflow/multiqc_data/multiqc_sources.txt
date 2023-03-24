@@ -1,0 +1,150 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	SRX15947815	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947815_all.txt.summary
+featureCounts	all_sections	SRX15590308	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590308_all.txt.summary
+featureCounts	all_sections	SRX15590310	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590310_all.txt.summary
+featureCounts	all_sections	SRX15590315	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590315_all.txt.summary
+featureCounts	all_sections	SRX15590314	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590314_all.txt.summary
+featureCounts	all_sections	SRX15947809	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947809_all.txt.summary
+featureCounts	all_sections	SRX15590319	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590319_all.txt.summary
+featureCounts	all_sections	SRX15947810	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947810_all.txt.summary
+featureCounts	all_sections	SRX15590312	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590312_all.txt.summary
+featureCounts	all_sections	SRX15947807	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947807_all.txt.summary
+featureCounts	all_sections	SRX15590309	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590309_all.txt.summary
+featureCounts	all_sections	SRX15947816	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947816_all.txt.summary
+featureCounts	all_sections	SRX15947813	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947813_all.txt.summary
+featureCounts	all_sections	SRX15590299	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590299_all.txt.summary
+featureCounts	all_sections	SRX15590311	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590311_all.txt.summary
+featureCounts	all_sections	SRX15590307	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590307_all.txt.summary
+featureCounts	all_sections	SRX15590301	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590301_all.txt.summary
+featureCounts	all_sections	SRX15590304	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590304_all.txt.summary
+featureCounts	all_sections	SRX15947808	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947808_all.txt.summary
+featureCounts	all_sections	SRX15947812	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947812_all.txt.summary
+featureCounts	all_sections	SRX15590302	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590302_all.txt.summary
+featureCounts	all_sections	SRX15590305	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590305_all.txt.summary
+featureCounts	all_sections	SRX15590306	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590306_all.txt.summary
+featureCounts	all_sections	SRX15947806	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947806_all.txt.summary
+featureCounts	all_sections	SRX15590316	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590316_all.txt.summary
+featureCounts	all_sections	SRX15947814	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15947814_all.txt.summary
+featureCounts	all_sections	SRX15590313	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590313_all.txt.summary
+featureCounts	all_sections	SRX15590318	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590318_all.txt.summary
+featureCounts	all_sections	SRX15590317	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590317_all.txt.summary
+featureCounts	all_sections	SRX15590300	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590300_all.txt.summary
+featureCounts	all_sections	SRX15590303	/home/annie/Documents/modulome-nextflow/aws_results/featureCounts/SRX15590303_all.txt.summary
+Bowtie 1	all_sections	SRX15590305	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590305_bowtie.txt
+Bowtie 1	all_sections	SRX15590315	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590315_bowtie.txt
+Bowtie 1	all_sections	SRX15590319	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590319_bowtie.txt
+Bowtie 1	all_sections	SRX15590308	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590308_bowtie.txt
+Bowtie 1	all_sections	SRX15947815	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947815_bowtie.txt
+Bowtie 1	all_sections	SRX15590316	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590316_bowtie.txt
+Bowtie 1	all_sections	SRX15590300	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590300_bowtie.txt
+Bowtie 1	all_sections	SRX15947812	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947812_bowtie.txt
+Bowtie 1	all_sections	SRX15947814	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947814_bowtie.txt
+Bowtie 1	all_sections	SRX15947816	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947816_bowtie.txt
+Bowtie 1	all_sections	SRX15590303	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590303_bowtie.txt
+Bowtie 1	all_sections	SRX15947813	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947813_bowtie.txt
+Bowtie 1	all_sections	SRX15590313	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590313_bowtie.txt
+Bowtie 1	all_sections	SRX15590304	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590304_bowtie.txt
+Bowtie 1	all_sections	SRX15590314	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590314_bowtie.txt
+Bowtie 1	all_sections	SRX15947810	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947810_bowtie.txt
+Bowtie 1	all_sections	SRX15590317	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590317_bowtie.txt
+Bowtie 1	all_sections	SRX15590302	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590302_bowtie.txt
+Bowtie 1	all_sections	SRX15590311	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590311_bowtie.txt
+Bowtie 1	all_sections	SRX15947806	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947806_bowtie.txt
+Bowtie 1	all_sections	SRX15590318	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590318_bowtie.txt
+Bowtie 1	all_sections	SRX15590299	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590299_bowtie.txt
+Bowtie 1	all_sections	SRX15590310	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590310_bowtie.txt
+Bowtie 1	all_sections	SRX15590312	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590312_bowtie.txt
+Bowtie 1	all_sections	SRX15947809	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947809_bowtie.txt
+Bowtie 1	all_sections	SRX15947808	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947808_bowtie.txt
+Bowtie 1	all_sections	SRX15590306	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590306_bowtie.txt
+Bowtie 1	all_sections	SRX15590301	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590301_bowtie.txt
+Bowtie 1	all_sections	SRX15590309	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590309_bowtie.txt
+Bowtie 1	all_sections	SRX15947807	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15947807_bowtie.txt
+Bowtie 1	all_sections	SRX15590307	/home/annie/Documents/modulome-nextflow/aws_results/bowtie/SRX15590307_bowtie.txt
+RSeQC	infer_experiment	SRX15590317	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590317.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947809	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947809.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590310	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590310.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590303	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590303.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947807	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947807.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590300	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590300.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947813	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947813.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947808	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947808.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590311	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590311.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590304	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590304.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590319	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590319.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590299	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590299.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590318	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590318.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590307	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590307.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947815	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947815.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590316	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590316.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590312	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590312.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947812	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947812.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590305	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590305.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590313	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590313.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947810	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947810.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947814	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947814.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947806	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947806.infer_experiment.txt
+RSeQC	infer_experiment	SRX15947816	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15947816.infer_experiment.txt
+RSeQC	infer_experiment	SRX15590302	/home/annie/Documents/modulome-nextflow/aws_results/rseqc/SRX15590302.infer_experiment.txt
+Cutadapt	all_sections	SRX15590306	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590306_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590303	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590303_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947806	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947806_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947813	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947813_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590315	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590315_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590317	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590317_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590300	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590300_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590313	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590313_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590310	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590310_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590316	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590316_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947809	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947809_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590302	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590302_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947814	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947814_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590318	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590318_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947810	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947810_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590307	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590307_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947815	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947815_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947808	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947808_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947816	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947816_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590305	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590305_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590301	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590301_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590299	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590299_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590304	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590304_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947807	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947807_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590311	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590311_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590319	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590319_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15947812	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15947812_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590312	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590312_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590309	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590309_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590308	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590308_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX15590314	/home/annie/Documents/modulome-nextflow/aws_results/trim_reports/SRX15590314_1.fastq.gz_trimming_report.txt
+FastQC	all_sections	SRX15590302	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590302_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947812	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947812_val_2_fastqc.zip
+FastQC	all_sections	SRX15590301	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590301_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590317	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590317_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947806	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947806_val_2_fastqc.zip
+FastQC	all_sections	SRX15590316	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590316_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947813	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947813_val_1_fastqc.zip
+FastQC	all_sections	SRX15590300	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590300_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590319	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590319_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590309	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590309_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947809	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947809_val_1_fastqc.zip
+FastQC	all_sections	SRX15590304	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590304_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590303	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590303_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947816	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947816_val_2_fastqc.zip
+FastQC	all_sections	SRX15590305	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590305_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947807	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947807_val_1_fastqc.zip
+FastQC	all_sections	SRX15590308	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590308_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947815	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947815_val_2_fastqc.zip
+FastQC	all_sections	SRX15947808	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947808_val_2_fastqc.zip
+FastQC	all_sections	SRX15590299	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590299_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590312	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590312_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947814	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947814_val_2_fastqc.zip
+FastQC	all_sections	SRX15590318	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590318_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590311	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590311_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590315	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590315_trimmed_fastqc.zip
+FastQC	all_sections	SRX15947810	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15947810_val_2_fastqc.zip
+FastQC	all_sections	SRX15590306	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590306_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590314	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590314_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590307	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590307_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590313	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590313_trimmed_fastqc.zip
+FastQC	all_sections	SRX15590310	/home/annie/Documents/modulome-nextflow/aws_results/fastqc/SRX15590310_trimmed_fastqc.zip

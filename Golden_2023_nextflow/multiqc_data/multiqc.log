@@ -1,0 +1,61 @@
+[2023-03-24 16:31:48,221] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2023-03-24 16:31:48,221] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/lib/python3/dist-packages/multiqc_config.yaml
+[2023-03-24 16:31:48,221] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/annie/.multiqc_config.yaml
+[2023-03-24 16:31:48,221] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2023-03-24 16:31:48,223] multiqc                                            [DEBUG  ]  Loading config settings from: ../assets/multiqc_config.yaml
+[2023-03-24 16:31:48,223] multiqc                                            [DEBUG  ]  New config 'title': Modulome
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of public microbial RNA-seq data
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'avsastry@ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment', '_bowtie.txt', '_all.txt.summary']
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'run_modules': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  New config 'module_order': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2023-03-24 16:31:48,224] multiqc                                            [DEBUG  ]  Command used: /usr/bin/multiqc -f -c ../assets/multiqc_config.yaml .
+[2023-03-24 16:31:49,061] multiqc                                            [WARNING]  MultiQC Version v1.14 now available!
+[2023-03-24 16:31:49,062] multiqc                                            [DEBUG  ]  Command     : /usr/bin/multiqc -f -c ../assets/multiqc_config.yaml .
+[2023-03-24 16:31:49,062] multiqc                                            [DEBUG  ]  Working dir : /home/annie/Documents/modulome-nextflow/aws_results
+[2023-03-24 16:31:49,062] multiqc                                            [DEBUG  ]  Template    : default
+[2023-03-24 16:31:49,062] multiqc                                            [DEBUG  ]  Running Python 3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]
+[2023-03-24 16:31:49,062] multiqc                                            [INFO   ]  Report title: Modulome
+[2023-03-24 16:31:49,063] multiqc                                            [INFO   ]  Only using modules: featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2023-03-24 16:31:49,063] multiqc                                            [DEBUG  ]  Analysing modules: featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2023-03-24 16:31:49,064] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpseqr7l7p
+[2023-03-24 16:31:49,074] multiqc                                            [INFO   ]  Search path : /home/annie/Documents/modulome-nextflow/aws_results
+[2023-03-24 16:31:49,075] multiqc                                            [DEBUG  ]  Ignored 264 search patterns as didn't match running modules.
+[2023-03-24 16:31:49,746] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-03-24 16:31:49,765] multiqc.modules.featureCounts.feature_counts       [INFO   ]  Found 31 reports
+[2023-03-24 16:31:49,770] multiqc.modules.bowtie1.bowtie1                    [INFO   ]  Found 31 reports
+[2023-03-24 16:31:49,778] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 25 infer_experiment reports
+[2023-03-24 16:31:49,780] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-03-24 16:31:49,796] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947813
+[2023-03-24 16:31:49,801] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947810
+[2023-03-24 16:31:49,802] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947816
+[2023-03-24 16:31:49,803] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947806
+[2023-03-24 16:31:49,807] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947808
+[2023-03-24 16:31:49,808] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947809
+[2023-03-24 16:31:49,810] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947815
+[2023-03-24 16:31:49,816] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947812
+[2023-03-24 16:31:49,817] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947814
+[2023-03-24 16:31:49,818] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947807
+[2023-03-24 16:31:49,820] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 31 reports
+[2023-03-24 16:31:49,854] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947808
+[2023-03-24 16:31:49,862] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947816
+[2023-03-24 16:31:49,864] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947806
+[2023-03-24 16:31:49,865] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947814
+[2023-03-24 16:31:49,867] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947809
+[2023-03-24 16:31:49,869] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947810
+[2023-03-24 16:31:49,871] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947813
+[2023-03-24 16:31:49,872] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947812
+[2023-03-24 16:31:49,874] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947815
+[2023-03-24 16:31:49,879] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947807
+[2023-03-24 16:31:49,881] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 31 reports
+[2023-03-24 16:31:50,148] multiqc                                            [INFO   ]  Compressing plot data
+[2023-03-24 16:31:50,528] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2023-03-24 16:31:50,528] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2023-03-24 16:31:50,528] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpseqr7l7p/multiqc_data' to '/home/annie/Documents/modulome-nextflow/aws_results/multiqc_data'
+[2023-03-24 16:31:50,613] multiqc                                            [INFO   ]  MultiQC complete
