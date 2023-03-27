@@ -1,0 +1,121 @@
+[2023-03-27 10:11:39,791] multiqc                                            [DEBUG  ]  This is MultiQC v1.12
+[2023-03-27 10:11:39,791] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/lib/python3/dist-packages/multiqc_config.yaml
+[2023-03-27 10:11:39,791] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/annie/.multiqc_config.yaml
+[2023-03-27 10:11:39,792] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  Loading config settings from: ../assets/multiqc_config.yaml
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'title': Modulome
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of public microbial RNA-seq data
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'avsastry@ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment', '_bowtie.txt', '_all.txt.summary']
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'run_modules': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  New config 'module_order': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2023-03-27 10:11:39,794] multiqc                                            [DEBUG  ]  Command used: /usr/bin/multiqc -f -c ../assets/multiqc_config.yaml .
+[2023-03-27 10:11:41,037] multiqc                                            [WARNING]  MultiQC Version v1.14 now available!
+[2023-03-27 10:11:41,037] multiqc                                            [DEBUG  ]  Command     : /usr/bin/multiqc -f -c ../assets/multiqc_config.yaml .
+[2023-03-27 10:11:41,037] multiqc                                            [DEBUG  ]  Working dir : /home/annie/Documents/modulome-nextflow/aws_results
+[2023-03-27 10:11:41,037] multiqc                                            [DEBUG  ]  Template    : default
+[2023-03-27 10:11:41,037] multiqc                                            [DEBUG  ]  Running Python 3.10.6 (main, Mar 10 2023, 10:55:28) [GCC 11.3.0]
+[2023-03-27 10:11:41,037] multiqc                                            [INFO   ]  Report title: Modulome
+[2023-03-27 10:11:41,038] multiqc                                            [INFO   ]  Only using modules: featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2023-03-27 10:11:41,038] multiqc                                            [DEBUG  ]  Analysing modules: featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2023-03-27 10:11:41,039] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmplbql3hhn
+[2023-03-27 10:11:41,040] multiqc                                            [INFO   ]  Search path : /home/annie/Documents/modulome-nextflow/aws_results
+[2023-03-27 10:11:41,041] multiqc                                            [DEBUG  ]  Ignored 264 search patterns as didn't match running modules.
+[2023-03-27 10:11:41,850] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-03-27 10:11:41,870] multiqc.modules.featureCounts.feature_counts       [INFO   ]  Found 61 reports
+[2023-03-27 10:11:41,879] multiqc.modules.bowtie1.bowtie1                    [INFO   ]  Found 61 reports
+[2023-03-27 10:11:41,889] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 55 infer_experiment reports
+[2023-03-27 10:11:41,889] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.5.1
+[2023-03-27 10:11:41,905] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_2
+[2023-03-27 10:11:41,917] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_0616_KO_2
+[2023-03-27 10:11:41,919] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_1684_KO_1
+[2023-03-27 10:11:41,923] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947813
+[2023-03-27 10:11:41,927] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: UV_exposure_2
+[2023-03-27 10:11:41,929] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: UV_exposure_3
+[2023-03-27 10:11:41,937] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947810
+[2023-03-27 10:11:41,938] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_1684_KO_2
+[2023-03-27 10:11:41,939] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947816
+[2023-03-27 10:11:41,940] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_control_1
+[2023-03-27 10:11:41,941] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947806
+[2023-03-27 10:11:41,944] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: km_LL_2
+[2023-03-27 10:11:41,947] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_3
+[2023-03-27 10:11:41,948] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: wt_dark_4h_2
+[2023-03-27 10:11:41,949] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947808
+[2023-03-27 10:11:41,950] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_0110_KO_2
+[2023-03-27 10:11:41,952] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0616_KO_1
+[2023-03-27 10:11:41,954] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0110_KO_2
+[2023-03-27 10:11:41,955] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: wt_dark_4h_1
+[2023-03-27 10:11:41,956] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947809
+[2023-03-27 10:11:41,959] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: wt_LL_2
+[2023-03-27 10:11:41,960] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947815
+[2023-03-27 10:11:41,962] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0616_KO_2
+[2023-03-27 10:11:41,963] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: km_LL_1
+[2023-03-27 10:11:41,965] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0110_KO_1
+[2023-03-27 10:11:41,968] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_2
+[2023-03-27 10:11:41,969] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_control_2
+[2023-03-27 10:11:41,970] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: km_dark_4h_2
+[2023-03-27 10:11:41,973] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: wt_LL_1
+[2023-03-27 10:11:41,974] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_3
+[2023-03-27 10:11:41,976] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_1
+[2023-03-27 10:11:41,977] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_1684_KO_2
+[2023-03-27 10:11:41,978] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947812
+[2023-03-27 10:11:41,979] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947814
+[2023-03-27 10:11:41,980] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947807
+[2023-03-27 10:11:41,981] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_0110_KO_1
+[2023-03-27 10:11:41,982] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: km_dark_4h_1
+[2023-03-27 10:11:41,985] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_1
+[2023-03-27 10:11:41,986] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_1684_KO_1
+[2023-03-27 10:11:41,987] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: light_0616_KO_1
+[2023-03-27 10:11:41,988] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 61 reports
+[2023-03-27 10:11:42,302] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: wt_dark_4h_2
+[2023-03-27 10:11:42,415] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_3
+[2023-03-27 10:11:42,637] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: km_dark_4h_2
+[2023-03-27 10:11:42,664] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: UV_exposure_2
+[2023-03-27 10:11:42,697] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_1684_KO_1
+[2023-03-27 10:11:42,892] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_control_2
+[2023-03-27 10:11:42,919] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947808
+[2023-03-27 10:11:42,923] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_0110_KO_2
+[2023-03-27 10:11:42,951] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_3
+[2023-03-27 10:11:42,981] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_2
+[2023-03-27 10:11:43,009] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_control_1
+[2023-03-27 10:11:43,037] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_0110_KO_1
+[2023-03-27 10:11:43,068] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0110_KO_2
+[2023-03-27 10:11:43,098] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_1684_KO_2
+[2023-03-27 10:11:43,124] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947816
+[2023-03-27 10:11:43,152] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947806
+[2023-03-27 10:11:43,153] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947814
+[2023-03-27 10:11:43,157] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: wt_dark_4h_1
+[2023-03-27 10:11:43,186] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: UV_control_1
+[2023-03-27 10:11:43,212] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947809
+[2023-03-27 10:11:43,215] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: km_dark_4h_1
+[2023-03-27 10:11:43,244] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_0616_KO_1
+[2023-03-27 10:11:43,272] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_1
+[2023-03-27 10:11:43,298] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947810
+[2023-03-27 10:11:43,328] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947813
+[2023-03-27 10:11:43,331] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_1684_KO_1
+[2023-03-27 10:11:43,356] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947812
+[2023-03-27 10:11:43,383] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947815
+[2023-03-27 10:11:43,386] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_1684_KO_2
+[2023-03-27 10:11:43,441] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: post_uv_2hrs_2
+[2023-03-27 10:11:43,468] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: km_LL_2
+[2023-03-27 10:11:43,497] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: wt_LL_1
+[2023-03-27 10:11:43,524] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: light_0616_KO_2
+[2023-03-27 10:11:43,551] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: UV_exposure_3
+[2023-03-27 10:11:43,578] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0616_KO_1
+[2023-03-27 10:11:43,605] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0616_KO_2
+[2023-03-27 10:11:43,633] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: wt_LL_2
+[2023-03-27 10:11:43,660] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: dark_4h_0110_KO_1
+[2023-03-27 10:11:43,686] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: SRX15947807
+[2023-03-27 10:11:43,689] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: km_LL_1
+[2023-03-27 10:11:43,716] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 61 reports
+[2023-03-27 10:11:44,137] multiqc                                            [INFO   ]  Compressing plot data
+[2023-03-27 10:11:44,744] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2023-03-27 10:11:44,744] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2023-03-27 10:11:44,744] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmplbql3hhn/multiqc_data' to '/home/annie/Documents/modulome-nextflow/aws_results/multiqc_data'
+[2023-03-27 10:11:44,800] multiqc                                            [INFO   ]  MultiQC complete
