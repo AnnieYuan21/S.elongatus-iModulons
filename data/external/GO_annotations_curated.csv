@@ -1,0 +1,156 @@
+,gene_id,gene_name,gene_ontology
+0,Synpcc7942_1426,cbbL,carboxysome
+1,Synpcc7942_1534,ago,DNA endonuclease activity
+2,Synpcc7942_1535,rbcX,cytoplasm|carboxysome
+3,Synpcc7942_1891,labA,circadian rhythm
+4,Synpcc7942_2462,PSK,ATP binding|D-ribulokinase activity
+5,Synpcc7942_1235,narB,protein binding
+7,Synpcc7942_B2662,enc,encapsulin nanocompartment
+8,Synpcc7942_B2620,srpA,peroxidase activity|iron ion binding|periplasmic space|hydrogen peroxide metabolic process|heme binding
+9,Synpcc7942_2061,Synpcc7942_2061,protein binding
+10,Synpcc7942_0321,glnB,identical protein binding|protein binding
+11,Synpcc7942_1984,crtB,carotenoid biosynthetic process|geranylgeranyl-diphosphate geranylgeranyltransferase activity
+12,Synpcc7942_0624,ldpA,"protein binding|4 iron, 4 sulfur cluster binding|circadian rhythm|detection of redox state"
+13,Synpcc7942_1422,ccmL,carboxysome|structural constituent of carboxysome shell
+14,Synpcc7942_1218,kaiA,identical protein binding|protein binding|entrainment of circadian clock|negative regulation of protein dephosphorylation|positive regulation of circadian rhythm|detection of redox state
+15,Synpcc7942_1217,kaiB,identical protein binding|protein binding|entrainment of circadian clock|regulation of circadian rhythm|negative regulation of phosphorylation
+16,Synpcc7942_1216,kaiC,identical protein binding|protein binding|entrainment of circadian clock|regulation of phosphorelay signal transduction system|negative regulation of circadian rhythm
+17,Synpcc7942_0095,rpaA,circadian regulation of translation|circadian rhythm
+18,Synpcc7942_0284,ccmK3,carboxysome|structural constituent of carboxysome shell
+19,Synpcc7942_0285,ccmK4,carboxysome|structural constituent of carboxysome shell
+20,Synpcc7942_0520,ccmP,carboxysome|structural constituent of carboxysome shell
+21,Synpcc7942_1447,ccaA,carboxysome|carbonate dehydratase activity
+22,Synpcc7942_0833,raf1,ribulose bisphosphate carboxylase complex assembly
+23,Synpcc7942_1427,cbbS,carboxysome
+24,Synpcc7942_1423,ccmM,carboxysome|structural constituent of carboxysome shell
+25,Synpcc7942_1421,ccmK2,carboxysome|structural constituent of carboxysome shell
+26,Synpcc7942_0644,cikA,circadian regulation of translation|circadian rhythm
+27,Synpcc7942_1496,argB,identical protein binding|protein binding
+28,Synpcc7942_1593,Synpcc7942_1593,aldehyde decarbonylase activity
+29,Synpcc7942_B2661,cyd,encapsulin nanocompartment|cysteine desulfurase activity
+30,Synpcc7942_2114,sasA,phosphorelay sensor kinase activity|circadian regulation of translation|protein binding|circadian rhythm
+31,Synpcc7942_0127,ntcA,protein binding
+32,Synpcc7942_1488,cmpA,bicarbonate transmembrane transporter activity
+33,Synpcc7942_1425,ccmO,carboxysome|structural constituent of carboxysome shell
+34,Synpcc7942_1424,ccmN,carboxysome|structural constituent of carboxysome shell
+0,Synpcc7942_2462,PSK,ATP binding
+1,Synpcc7942_2462,PSK,D-ribulokinase activity
+2,Synpcc7942_1426,cbbL,carboxysome
+3,Synpcc7942_0520,Synpcc7942_0520,carboxysome
+4,Synpcc7942_0520,Synpcc7942_0520,structural constituent of carboxysome
+5,Synpcc7942_0127,ntcA,protein binding
+6,Synpcc7942_1496,argB,protein binding
+7,Synpcc7942_1496,argB,protein binding
+8,Synpcc7942_1496,argB,protein binding
+9,Synpcc7942_1496,argB,protein binding
+10,Synpcc7942_1496,argB,protein binding
+11,Synpcc7942_1496,argB,identical protein binding
+12,Synpcc7942_1496,argB,identical protein binding
+13,Synpcc7942_1427,Synpcc7942_1427,carboxysome
+14,Synpcc7942_1424,Synpcc7942_1424,carboxysome
+15,Synpcc7942_1424,Synpcc7942_1424,structural constituent of carboxysome
+16,Synpcc7942_1425,ccmO,carboxysome
+17,Synpcc7942_1425,ccmO,structural constituent of carboxysome
+31,Synpcc7942_1423,ccmM,carboxysome
+32,Synpcc7942_1423,ccmM,structural constituent of carboxysome
+33,Synpcc7942_1423,ccmM,structural constituent of carboxysome
+34,Synpcc7942_1423,ccmM,carbonate dehydratase activity
+35,Synpcc7942_1422,ccmL,carboxysome
+36,Synpcc7942_1422,ccmL,structural constituent of carboxysome
+37,Synpcc7942_1421,ccmK,carboxysome
+38,Synpcc7942_1421,ccmK,structural constituent of carboxysome
+39,Synpcc7942_1447,icfA,carbonate dehydratase activity
+40,Synpcc7942_1447,icfA,carboxysome
+41,Synpcc7942_1218,kaiA,protein binding
+42,Synpcc7942_1218,kaiA,protein binding
+43,Synpcc7942_1218,kaiA,protein binding
+44,Synpcc7942_1218,kaiA,protein binding
+45,Synpcc7942_1218,kaiA,protein binding
+46,Synpcc7942_1218,kaiA,protein binding
+47,Synpcc7942_1218,kaiA,protein binding
+48,Synpcc7942_1218,kaiA,protein binding
+49,Synpcc7942_1218,kaiA,protein binding
+50,Synpcc7942_1218,kaiA,protein binding
+51,Synpcc7942_1218,kaiA,protein binding
+52,Synpcc7942_1218,kaiA,protein binding
+53,Synpcc7942_1218,kaiA,protein binding
+54,Synpcc7942_1218,kaiA,protein binding
+55,Synpcc7942_1218,kaiA,entrainment of circadian clock
+56,Synpcc7942_1218,kaiA,negative regulation of protein dephosphorylation
+57,Synpcc7942_1218,kaiA,positive regulation of circadian rhythm
+58,Synpcc7942_1218,kaiA,identical protein binding
+59,Synpcc7942_1218,kaiA,identical protein binding
+60,Synpcc7942_1218,kaiA,identical protein binding
+61,Synpcc7942_1217,kaiB,protein binding
+62,Synpcc7942_1217,kaiB,protein binding
+63,Synpcc7942_1217,kaiB,protein binding
+64,Synpcc7942_1217,kaiB,protein binding
+65,Synpcc7942_1217,kaiB,protein binding
+66,Synpcc7942_1217,kaiB,protein binding
+67,Synpcc7942_1217,kaiB,protein binding
+68,Synpcc7942_1217,kaiB,protein binding
+69,Synpcc7942_1217,kaiB,protein binding
+70,Synpcc7942_1217,kaiB,protein binding
+71,Synpcc7942_1217,kaiB,entrainment of circadian clock
+72,Synpcc7942_1217,kaiB,negative regulation of phosphorylation
+73,Synpcc7942_1217,kaiB,regulation of circadian rhythm
+74,Synpcc7942_1217,kaiB,identical protein binding
+75,Synpcc7942_1217,kaiB,identical protein binding
+76,Synpcc7942_1216,kaiC,protein binding
+77,Synpcc7942_1216,kaiC,protein binding
+78,Synpcc7942_1216,kaiC,protein binding
+79,Synpcc7942_1216,kaiC,protein binding
+80,Synpcc7942_1216,kaiC,protein binding
+81,Synpcc7942_1216,kaiC,protein binding
+82,Synpcc7942_1216,kaiC,protein binding
+83,Synpcc7942_1216,kaiC,protein binding
+84,Synpcc7942_1216,kaiC,protein binding
+85,Synpcc7942_1216,kaiC,protein binding
+86,Synpcc7942_1216,kaiC,protein binding
+87,Synpcc7942_1216,kaiC,protein binding
+88,Synpcc7942_1216,kaiC,protein binding
+89,Synpcc7942_1216,kaiC,protein binding
+90,Synpcc7942_1216,kaiC,protein binding
+91,Synpcc7942_1216,kaiC,entrainment of circadian clock
+92,Synpcc7942_1216,kaiC,negative regulation of circadian rhythm
+93,Synpcc7942_1216,kaiC,negative regulation of circadian rhythm
+94,Synpcc7942_1216,kaiC,identical protein binding
+95,Synpcc7942_1216,kaiC,identical protein binding
+96,Synpcc7942_1216,kaiC,identical protein binding
+97,Synpcc7942_1216,kaiC,identical protein binding
+98,Synpcc7942_1216,kaiC,regulation of phosphorelay signal transduction system
+99,Synpcc7942_0284,Synpcc7942_0284,carboxysome
+100,Synpcc7942_0284,Synpcc7942_0284,structural constituent of carboxysome
+101,Synpcc7942_0285,Synpcc7942_0285,carboxysome
+102,Synpcc7942_0285,Synpcc7942_0285,structural constituent of carboxysome
+103,Synpcc7942_0285,Synpcc7942_0285,structural constituent of carboxysome
+104,Synpcc7942_2114,sasA,phosphorelay sensor kinase activity
+105,Synpcc7942_2114,sasA,protein binding
+106,Synpcc7942_2114,sasA,protein binding
+107,Synpcc7942_1235,narB,protein binding
+108,Synpcc7942_1488,cmpA,bicarbonate transmembrane transporter activity
+109,Synpcc7942_1593,Synpcc7942_1593,aldehyde decarbonylase activity
+110,Synpcc7942_0321,glnB,protein binding
+111,Synpcc7942_0321,glnB,protein binding
+112,Synpcc7942_0321,glnB,protein binding
+113,Synpcc7942_0321,glnB,protein binding
+114,Synpcc7942_0321,glnB,protein binding
+115,Synpcc7942_0321,glnB,protein binding
+116,Synpcc7942_0321,glnB,protein binding
+117,Synpcc7942_0321,glnB,protein binding
+118,Synpcc7942_0321,glnB,identical protein binding
+119,Synpcc7942_0321,glnB,identical protein binding
+120,Synpcc7942_0321,glnB,identical protein binding
+121,Synpcc7942_0321,glnB,identical protein binding
+122,Synpcc7942_1984,crtB,carotenoid biosynthetic process
+123,Synpcc7942_1984,crtB,geranylgeranyl-diphosphate geranylgeranyltransferase activity
+124,Synpcc7942_0624,ldpA,protein binding
+125,Synpcc7942_B2620,srpA,peroxidase activity
+126,Synpcc7942_B2620,srpA,iron ion binding
+127,Synpcc7942_B2620,srpA,heme binding
+128,Synpcc7942_B2620,srpA,periplasmic space
+129,Synpcc7942_B2620,srpA,hydrogen peroxide metabolic process
+130,Synpcc7942_B2620,srpA,oxidation-reduction process
+131,Synpcc7942_2061,Synpcc7942_2061,protein binding
+132,Synpcc7942_2061,Synpcc7942_2061,protein binding
+133,Synpcc7942_2061,Synpcc7942_2061,protein binding

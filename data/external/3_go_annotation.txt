@@ -1,0 +1,134 @@
+UniProtKB	UniProtKB:Q31KC7	Q31KC7	PSK		PMID:27223615	IDA		F	D-ribulose kinase	Synpcc7942_2462	protein	NCBITaxon:1140	20171215	UniProt			GO:0005524	ATP binding
+UniProtKB	UniProtKB:Q31KC7	Q31KC7	PSK		PMID:27223615	IDA		F	D-ribulose kinase	Synpcc7942_2462	protein	NCBITaxon:1140	20171215	UniProt			GO:0019150	D-ribulokinase activity
+UniProtKB	UniProtKB:Q31NB3	Q31NB3	cbbL		PMID:17675289	IDA		C	Ribulose bisphosphate carboxylase large chain	rbcL|Synpcc7942_1426	protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q31QW7	Q31QW7	Synpcc7942_0520		PMID:23572529	IDA		C	Uncharacterized protein		protein	NCBITaxon:1140	20200702	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q31QW7	Q31QW7	Synpcc7942_0520		PMID:23572529	IPI	UniProtKB:Q31QW7	F	Uncharacterized protein		protein	NCBITaxon:1140	20200720	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:P29283	P29283	ntcA		PMID:20716687	IPI	UniProtKB:Q7X386	F	Global nitrogen regulator	Synpcc7942_0127	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:15150219	IPI	UniProtKB:P0A3F4	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:15165234	IPI	UniProtKB:P0A3F4	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:17959776	IPI	UniProtKB:P0A3F4	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:20716687	IPI	UniProtKB:P0A3F4	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:21041661	IPI	UniProtKB:P0A3F4	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:15150219	IPI	UniProtKB:Q6V1L5	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q6V1L5	Q6V1L5	argB		PMID:15165234	IPI	UniProtKB:Q6V1L5	F	Acetylglutamate kinase	Synpcc7942_1496	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q31NB2	Q31NB2	Synpcc7942_1427		PMID:17675289	IDA		C	RuBisCO_small domain-containing protein		protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:P46204	P46204	Synpcc7942_1424		PMID:22461622	IDA		C	Uncharacterized protein Synpcc7942_1424		protein	NCBITaxon:1140	20200619	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:P46204	P46204	Synpcc7942_1424		PMID:22461622	IMP		F	Uncharacterized protein Synpcc7942_1424		protein	NCBITaxon:1140	20200619	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:P46205	P46205	ccmO		PMID:22928045	IDA		C	Uncharacterized protein CcmO	Synpcc7942_1425	protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:P46205	P46205	ccmO		PMID:24267892	IMP		F	Uncharacterized protein CcmO	Synpcc7942_1425	protein	NCBITaxon:1140	20200720	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0004035	alkaline phosphatase activity
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0004346	glucose-6-phosphatase activity
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		P	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0006002	fructose 6-phosphate metabolic process
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		P	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0006603	phosphocreatine metabolic process
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		GO_REF:0000024	ISS	UniProtKB:A1YYW7	F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0008270	zinc ion binding
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		C	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0009276	Gram-negative-bacterium-type cell wall
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		P	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0016311	dephosphorylation
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		P	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0046838	phosphorylated carbohydrate dephosphorylation
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		GO_REF:0000024	ISS	UniProtKB:A1YYW7	F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0046872	metal ion binding
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0050192	phosphoglycerate phosphatase activity
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0050308	sugar-phosphatase activity
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		F	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0098519	nucleotide phosphatase activity, acting on free nucleotides
+UniProtKB	UniProtKB:Q55320	Q55320	phoV		PMID:8574398	IDA		C	Alkaline phosphatase PhoV		protein	NCBITaxon:1140	20140110	UniProt			GO:0098552	side of membrane
+UniProtKB	UniProtKB:Q03513	Q03513	ccmM		PMID:17675289	IDA		C	Carbon dioxide concentrating mechanism protein CcmM	Synpcc7942_1423	protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q03513	Q03513	ccmM		PMID:17675289	IDA		F	Carbon dioxide concentrating mechanism protein CcmM	Synpcc7942_1423	protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q03513	Q03513	ccmM		PMID:20304968	IDA		F	Carbon dioxide concentrating mechanism protein CcmM	Synpcc7942_1423	protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q03513	Q03513	ccmM	not	DOI:10.1139/b05-057	IDA		F	Carbon dioxide concentrating mechanism protein CcmM	Synpcc7942_1423	protein	NCBITaxon:1140	20200713	UniProt			GO:0004089	carbonate dehydratase activity
+UniProtKB	UniProtKB:Q03512	Q03512	ccmL		PMID:28616951	IDA		C	Carbon dioxide concentrating mechanism protein CcmL	Synpcc7942_1422	protein	NCBITaxon:1140	20200706	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q03512	Q03512	ccmL		PMID:8491708	IMP		F	Carbon dioxide concentrating mechanism protein CcmL	Synpcc7942_1422	protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q03511	Q03511	ccmK		PMID:17675289	IDA		C	Carbon dioxide-concentrating mechanism protein CcmK	csoS1|Synpcc7942_1421	protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q03511	Q03511	ccmK		PMID:22928045	IDA		F	Carbon dioxide-concentrating mechanism protein CcmK	csoS1|Synpcc7942_1421	protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:P27134	P27134	icfA		PMID:24585024	IMP		F	Carbonic anhydrase	Synpcc7942_1447	protein	NCBITaxon:1140	20200720	UniProt			GO:0004089	carbonate dehydratase activity
+UniProtKB	UniProtKB:P27134	P27134	icfA		PMID:17675289	IDA		C	Carbonic anhydrase	Synpcc7942_1447	protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:10064581	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:10064581	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:11356188	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:12441347	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:12441347	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:12727879	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:12727879	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:15775978	IPI	UniProtKB:Q8GLI4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:19395479	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:20231482	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:20679240	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:20679240	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:26113637	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:9874787	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:10064581	IDA		P	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20060118	UniProt			GO:0009649	entrainment of circadian clock
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:9727980	IMP		P	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20111104	CACAO			GO:0035308	negative regulation of protein dephosphorylation
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:11356188	IDA		P	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20050607	UniProt			GO:0042753	positive regulation of circadian rhythm
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:10064581	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:20231482	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF6	Q79PF6	kaiA		PMID:20679240	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiA	Synpcc7942_1218|see0009	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:10064581	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:10064581	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:12441347	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:12441347	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:12727879	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:12727879	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:20679240	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:20679240	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:26113637	IPI	UniProtKB:Q79PF4	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:9874787	IPI	UniProtKB:Q79PF6	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:10064581	IDA		P	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20060118	UniProt			GO:0009649	entrainment of circadian clock
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:12727879	IDA		P	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20111211	CACAO			GO:0042326	negative regulation of phosphorylation
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:9727980	IMP		P	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20111104	CACAO			GO:0042752	regulation of circadian rhythm
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:10064581	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF5	Q79PF5	kaiB		PMID:9874787	IPI	UniProtKB:Q79PF5	F	Circadian clock protein KaiB	Synpcc7942_1217|see0010	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:10064581	IPI	UniProtKB:Q79PF5	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:10064581	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:10786837	IPI	UniProtKB:Q06904	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:11356188	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:12441347	IPI	UniProtKB:Q06904	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:12441347	IPI	UniProtKB:Q79PF5	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:12441347	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:12727879	IPI	UniProtKB:Q79PF5	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:12727879	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:19395479	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:20231482	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:20679240	IPI	UniProtKB:Q79PF5	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:20679240	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:26113637	IPI	UniProtKB:Q79PF5	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:26113637	IPI	UniProtKB:Q79PF6	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:10064581	IDA		P	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20060118	UniProt			GO:0009649	entrainment of circadian clock
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:11356188	TAS		P	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20050607	UniProt			GO:0042754	negative regulation of circadian rhythm
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:9727980	IMP		P	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20111104	CACAO			GO:0042754	negative regulation of circadian rhythm
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:10064581	IPI	UniProtKB:Q79PF4	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:20231482	IPI	UniProtKB:Q79PF4	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:20679240	IPI	UniProtKB:Q79PF4	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:26113637	IPI	UniProtKB:Q79PF4	F	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:Q79PF4	Q79PF4	kaiC		PMID:16882723	IDA		P	Circadian clock protein kinase KaiC	Synpcc7942_1216|see0011	protein	NCBITaxon:1140	20110923	CACAO			GO:0070297	regulation of phosphorelay signal transduction system
+UniProtKB	UniProtKB:Q31RK3	Q31RK3	Synpcc7942_0284		PMID:30389783	IMP		C	BMC domain-containing protein		protein	NCBITaxon:1140	20200706	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q31RK3	Q31RK3	Synpcc7942_0284		PMID:30389783	IPI	UniProtKB:Q31RK2	F	BMC domain-containing protein		protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q31RK2	Q31RK2	Synpcc7942_0285		PMID:25117559	IDA		C	BMC domain-containing protein		protein	NCBITaxon:1140	20200625	UniProt			GO:0031470	carboxysome
+UniProtKB	UniProtKB:Q31RK2	Q31RK2	Synpcc7942_0285		PMID:30389783	IMP		F	BMC domain-containing protein		protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q31RK2	Q31RK2	Synpcc7942_0285		PMID:30389783	IPI	UniProtKB:Q31RK3	F	BMC domain-containing protein		protein	NCBITaxon:1140	20200713	UniProt			GO:0043886	structural constituent of carboxysome
+UniProtKB	UniProtKB:Q06904	Q06904	sasA		PMID:16882723	IMP		F	Adaptive-response sensory-kinase SasA	sarS|Synpcc7942_2114	protein	NCBITaxon:1140	20110923	CACAO			GO:0000155	phosphorelay sensor kinase activity
+UniProtKB	UniProtKB:Q06904	Q06904	sasA		PMID:10786837	IPI	UniProtKB:Q79PF4	F	Adaptive-response sensory-kinase SasA	sarS|Synpcc7942_2114	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q06904	Q06904	sasA		PMID:12441347	IPI	UniProtKB:Q79PF4	F	Adaptive-response sensory-kinase SasA	sarS|Synpcc7942_2114	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P39458	P39458	narB		PMID:14871493	IPI	UniProtKB:P00221	F	Nitrate reductase	Synpcc7942_1235	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P39660	P39660	cmpA		PMID:10557362	IDA		F	Bicarbonate-binding protein CmpA	cbpA|Synpcc7942_1488	protein	NCBITaxon:1140	20140403	CACAO			GO:0015106	bicarbonate transmembrane transporter activity
+UniProtKB	UniProtKB:Q54764	Q54764	Synpcc7942_1593		PMID:20671186	IMP		F	Aldehyde decarbonylase		protein	NCBITaxon:1140	20120414	CACAO			GO:0071771	aldehyde decarbonylase activity
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:15150219	IPI	UniProtKB:Q6V1L5	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:15150219	IPI	UniProtKB:Q7X386	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:15165234	IPI	UniProtKB:Q6V1L5	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:17959776	IPI	UniProtKB:Q6V1L5	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:20716687	IPI	UniProtKB:Q6V1L5	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:20716687	IPI	UniProtKB:Q7X386	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:21041661	IPI	UniProtKB:Q6V1L5	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:22212593	IPI	UniProtKB:Q8DGS1	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:15150219	IPI	UniProtKB:P0A3F4	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:15165234	IPI	UniProtKB:P0A3F4	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:20716687	IPI	UniProtKB:P0A3F4	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:P0A3F4	P0A3F4	glnB		PMID:21041661	IPI	UniProtKB:P0A3F4	F	Nitrogen regulatory protein P-II	Synpcc7942_0321	protein	NCBITaxon:1140	20200808	IntAct			GO:0042802	identical protein binding
+UniProtKB	UniProtKB:P37269	P37269	crtB		PMID:1537409	IDA		P	15-cis-phytoene synthase	pys|Synpcc7942_1984	protein	NCBITaxon:1140	20130610	UniProt			GO:0016117	carotenoid biosynthetic process
+UniProtKB	UniProtKB:P37269	P37269	crtB		PMID:1537409	IDA		F	15-cis-phytoene synthase	pys|Synpcc7942_1984	protein	NCBITaxon:1140	20130610	UniProt			GO:0016767	geranylgeranyl-diphosphate geranylgeranyltransferase activity
+UniProtKB	UniProtKB:Q8GLI4	Q8GLI4	ldpA		PMID:15775978	IPI	UniProtKB:Q79PF6	F	Light dependent period	Synpcc7942_0624	protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		GO_REF:0000024	ISS	UniProtKB:Q73WB6	F	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0004601	peroxidase activity
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		GO_REF:0000024	ISS	UniProtKB:Q73WB6	F	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0005506	iron ion binding
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		GO_REF:0000024	ISS	UniProtKB:Q73WB6	F	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0020037	heme binding
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		PMID:7536734	IDA		C	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0042597	periplasmic space
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		GO_REF:0000024	ISS	UniProtKB:Q73WB6	P	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0042743	hydrogen peroxide metabolic process
+UniProtKB	UniProtKB:Q55025	Q55025	srpA		GO_REF:0000024	ISS	UniProtKB:Q73WB6	P	Catalase-related peroxidase	Synpcc7942_B2620|pANL46	protein	NCBITaxon:1140	20140306	UniProt			GO:0055114	oxidation-reduction process
+UniProtKB	UniProtKB:Q7X386	Q7X386	Synpcc7942_2061		PMID:15150219	IPI	UniProtKB:P0A3F4	F	PipX		protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q7X386	Q7X386	Synpcc7942_2061		PMID:20716687	IPI	UniProtKB:P0A3F4	F	PipX		protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding
+UniProtKB	UniProtKB:Q7X386	Q7X386	Synpcc7942_2061		PMID:20716687	IPI	UniProtKB:P29283	F	PipX		protein	NCBITaxon:1140	20200808	IntAct			GO:0005515	protein binding

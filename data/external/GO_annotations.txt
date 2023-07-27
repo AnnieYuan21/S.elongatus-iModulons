@@ -1,0 +1,35 @@
+UniProtKB:Q31NB3	cbbL	GO:0031470	carboxysome	Ribulose bisphosphate carboxylase large chain
+UniProtKB:Q31N05	ago	GO:0004520	DNA endonuclease activity	Protein argonaute
+UniProtKB:Q31N04	rbcX	GO:0005737|GO:0031470	cytoplasm|carboxysome	RuBisCO chaperone RbcX
+UniProtKB:Q31LZ8	labA	GO:0007623	circadian rhythm	Low amplitude and bright protein LabA
+UniProtKB:Q31KC7	PSK	GO:0005524|GO:0019150	ATP binding|D-ribulokinase activity	D-ribulose kinase
+UniProtKB:P39458	narB	GO:0005515	protein binding	Nitrate reductase
+UniProtKB:Q55320	phoV	GO:0008270|GO:0006603|GO:0098552|GO:0009276|GO:0046872|GO:0006002|GO:0050192|GO:0050308|GO:0016311|GO:0004035|GO:0004346	zinc ion binding|phosphocreatine metabolic process|side of membrane|Gram-negative-bacterium-type cell wall|metal ion binding|fructose 6-phosphate metabolic process|phosphoglycerate phosphatase activity|sugar-phosphatase activity|dephosphorylation|alkaline phosphatase activity|glucose-6-phosphatase activity	Alkaline phosphatase PhoV
+UniProtKB:Q55032	enc	GO:0140737	encapsulin nanocompartment	Type 2A encapsulin shell protein SrpI
+UniProtKB:Q55025	srpA	GO:0004601|GO:0005506|GO:0042597|GO:0042743|GO:0020037	peroxidase activity|iron ion binding|periplasmic space|hydrogen peroxide metabolic process|heme binding	Catalase-related peroxidase
+UniProtKB:Q7X386	Synpcc7942_2061	GO:0005515	protein binding	PipX
+UniProtKB:P0A3F4	glnB	GO:0042802|GO:0005515	identical protein binding|protein binding	Nitrogen regulatory protein P-II
+UniProtKB:P37269	crtB	GO:0016117|GO:0016767	carotenoid biosynthetic process|geranylgeranyl-diphosphate geranylgeranyltransferase activity	15-cis-phytoene synthase
+UniProtKB:Q8GLI4	ldpA	GO:0005515|GO:0051539|GO:0007623|GO:0051776	protein binding|4 iron, 4 sulfur cluster binding|circadian rhythm|detection of redox state	Light dependent period A
+UniProtKB:Q03512	ccmL	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome shell vertex protein CcmL
+UniProtKB:Q79PF6	kaiA	GO:0042802|GO:0005515|GO:0009649|GO:0035308|GO:0042753|GO:0051776	identical protein binding|protein binding|entrainment of circadian clock|negative regulation of protein dephosphorylation|positive regulation of circadian rhythm|detection of redox state	Circadian clock oscillator protein KaiA
+UniProtKB:Q79PF5	kaiB	GO:0042802|GO:0005515|GO:0009649|GO:0042752|GO:0042326	identical protein binding|protein binding|entrainment of circadian clock|regulation of circadian rhythm|negative regulation of phosphorylation	Circadian clock oscillator protein KaiB
+UniProtKB:Q79PF4	kaiC	GO:0042802|GO:0005515|GO:0009649|GO:0070297|GO:0042754	identical protein binding|protein binding|entrainment of circadian clock|regulation of phosphorelay signal transduction system|negative regulation of circadian rhythm	Circadian clock oscillator protein KaiC
+UniProtKB:Q31S42	rpaA	GO:0097167|GO:0007623	circadian regulation of translation|circadian rhythm	DNA-binding dual master transcriptional regulator RpaA
+UniProtKB:Q31RK3	ccmK3	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome shell protein CcmK3
+UniProtKB:Q31RK2	ccmK4	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome shell protein CcmK4
+UniProtKB:Q31QW7	ccmP	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome shell protein CcmP
+UniProtKB:P27134	ccaA	GO:0031470|GO:0004089	carboxysome|carbonate dehydratase activity	Carbonic anhydrase
+UniProtKB:Q31Q05	raf1	GO:0110102	ribulose bisphosphate carboxylase complex assembly	RuBisCO accumulation factor 1
+UniProtKB:Q31NB2	cbbS	GO:0031470	carboxysome	Ribulose bisphosphate carboxylase small subunit
+UniProtKB:Q03513	ccmM	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome assembly protein CcmM
+UniProtKB:Q03511	ccmK2	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome shell protein CcmK2
+UniProtKB:Q9KHI5	cikA	GO:0097167|GO:0007623	circadian regulation of translation|circadian rhythm	Circadian input-output histidine kinase CikA
+UniProtKB:Q6V1L5	argB	GO:0042802|GO:0005515	identical protein binding|protein binding	Acetylglutamate kinase
+UniProtKB:Q54764	Synpcc7942_1593	GO:0071771	aldehyde decarbonylase activity	Aldehyde decarbonylase
+UniProtKB:Q8KUU5	cyd	GO:0140737|GO:0031071	encapsulin nanocompartment|cysteine desulfurase activity	Cysteine desulfurase
+UniProtKB:Q06904	sasA	GO:0000155|GO:0097167|GO:0005515|GO:0007623	phosphorelay sensor kinase activity|circadian regulation of translation|protein binding|circadian rhythm	Adaptive-response sensory kinase SasA
+UniProtKB:P29283	ntcA	GO:0005515	protein binding	Global nitrogen regulator
+UniProtKB:P39660	cmpA	GO:0015106	bicarbonate transmembrane transporter activity	Bicarbonate-binding protein CmpA
+UniProtKB:P46205	ccmO	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome assembly protein CcmO
+UniProtKB:P46204	ccmN	GO:0031470|GO:0043886	carboxysome|structural constituent of carboxysome shell	Carboxysome assembly protein CcmN
