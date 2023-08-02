@@ -1,19 +1,19 @@
 ,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,explained_variance,category
-CMM,,,,,,,,,13,,,0.00508636102524207,uncharacterized
+ccm,,,,,,,,,13,,,0.00508636102524207,functional
 PSII-1,,,,,,,,,21,,,0.005835172635823782,functional
-Translation,,,,,,,,,26,,,0.009848911507520985,uncharacterized
+ribosome-1,,,,,,,,,26,,,0.009848911507520985,functional
 SG_1,,,,,,,,,6,,True,0.0013766296763501051,single_gene
 SG_2,,,,,,,,,3,,True,0.0017441271330175256,single_gene
-RpaB,,,,,,,,,8,,,0.005301661698255966,uncharacterized
+RpaA,,,,,,,,,8,,,0.005301661698255966,functional
 UV,,,,,,,,,77,,,0.01831953863820024,uncharacterized
 Purine Metabolism,,,,,,,,,16,,,0.01066757599522139,uncharacterized
 unchar-1,,,,,,,,,45,,,0.013696012036437444,uncharacterized
 SG_3,,,,,,,,,6,,True,0.0015531774297641299,single_gene
 SG_4,,,,,,,,,9,,True,0.001757936212606781,single_gene
 unchar-2,,,,,,,,,42,,,0.09723835292477734,uncharacterized
-STR,,,,,,,,,4,,,0.005230721500119495,uncharacterized
+anL,,,,,,,,,4,,,0.005230721500119495,functional
 ccmR-1,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,regulatory
-RpaA/RpaB,,,,,,,,,8,,,0.011358112256121045,uncharacterized
+sigA2,,,,,,,,,8,,,0.011358112256121045,functional
 livJHMGF,,,,,,,,,8,,,0.0023541130053275072,uncharacterized
 Cytc Oxidases ,,,,,,,,,19,,,0.022564860855927793,uncharacterized
 heat shock,,,,,,,,,7,,,0.004461199775102509,functional
@@ -50,7 +50,7 @@ ccmR-2,ccmR,4.965228717762188e-10,9.930457435524376e-10,0.5,0.6666666666666666,0
 NtcA-3,,,,,,,,,8,,,0.005294927724815657,uncharacterized
 SG_12,,,,,,,,,9,,True,0.00251412481423674,single_gene
 SG_13,,,,,,,,,8,,True,0.0021047222368046903,single_gene
-ribosome,,,,,,,,,14,,,0.010813571300321345,functional
+ribosome-2,,,,,,,,,14,,,0.010813571300321345,functional
 unchar-7,,,,,,,,,4,,,0.0027508524155600567,uncharacterized
 unchar-8,,,,,,,,,21,,,0.006888498136164878,uncharacterized
 sufR,sufR,2.985368872701147e-13,2.985368872701147e-13,0.625,0.8333333333333334,0.7142857142857143,5.0,6.0,8,1.0,,0.005669915968546602,regulatory
