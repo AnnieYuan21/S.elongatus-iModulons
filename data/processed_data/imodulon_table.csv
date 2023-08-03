@@ -1,31 +1,31 @@
 ,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,explained_variance,category
 ccm,,,,,,,,,13,,,0.00508636102524207,functional
-PSII-1,,,,,,,,,21,,,0.005835172635823782,functional
-ribosome-1,,,,,,,,,26,,,0.009848911507520985,functional
+PSII_1,,,,,,,,,21,,,0.005835172635823782,functional
+ribosome_1,,,,,,,,,26,,,0.009848911507520985,functional
 SG_1,,,,,,,,,6,,True,0.0013766296763501051,single_gene
 SG_2,,,,,,,,,3,,True,0.0017441271330175256,single_gene
 RpaA,,,,,,,,,8,,,0.005301661698255966,functional
-UV,,,,,,,,,77,,,0.01831953863820024,uncharacterized
-Purine Metabolism,,,,,,,,,16,,,0.01066757599522139,uncharacterized
-unchar-1,,,,,,,,,45,,,0.013696012036437444,uncharacterized
+UV,,,,,,,,,77,,,0.01831953863820024,functional
+unchar_1,,,,,,,,,16,,,0.01066757599522139,uncharacterized
+unchar_2,,,,,,,,,45,,,0.013696012036437444,uncharacterized
 SG_3,,,,,,,,,6,,True,0.0015531774297641299,single_gene
 SG_4,,,,,,,,,9,,True,0.001757936212606781,single_gene
-unchar-2,,,,,,,,,42,,,0.09723835292477734,uncharacterized
-anL,,,,,,,,,4,,,0.005230721500119495,functional
+unchar_3,,,,,,,,,42,,,0.09723835292477734,uncharacterized
+anL,,,,,,,,,4,,,0.005230721500119495,uncharacterized
 ccmR-1,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,regulatory
 sigA2,,,,,,,,,8,,,0.011358112256121045,functional
 livJHMGF,,,,,,,,,8,,,0.0023541130053275072,uncharacterized
-Cytc Oxidases ,,,,,,,,,19,,,0.022564860855927793,uncharacterized
-heat shock,,,,,,,,,7,,,0.004461199775102509,functional
-Fur-Like,,,,,,,,,10,,,0.004887496595742835,uncharacterized
-OxPh NADPH **,,,,,,,,,45,,,0.00801646160556202,uncharacterized
-unchar-3,,,,,,,,,34,,,0.006213621003348657,uncharacterized
+cytochrome_oxidase,,,,,,,,,19,,,0.022564860855927793,functional
+heat_shock_1,,,,,,,,,7,,,0.004461199775102509,functional
+iron,,,,,,,,,10,,,0.004887496595742835,functional
+OxPh_NADPH,,,,,,,,,45,,,0.00801646160556202,uncharacterized
+unchar_4,,,,,,,,,34,,,0.006213621003348657,uncharacterized
 NtcA-1,ntcA,1.2589983152339448e-25,2.5179966304678896e-25,0.75,0.6666666666666666,0.7058823529411765,12.0,18.0,16,1.0,,0.017041910443655106,regulatory
 Biofilm-1,,,,,,,,,5,,,0.004883979861916354,uncharacterized
-Phage Related,,,,,,,,,41,,,0.007525061924674059,uncharacterized
-unchar-4,,,,,,,,,101,,,0.00444960740014444,uncharacterized
+phage_related,,,,,,,,,41,,,0.007525061924674059,uncharacterized
+unchar_5,,,,,,,,,101,,,0.00444960740014444,uncharacterized
 CysR,,,,,,,,,29,,,0.011653866560567439,uncharacterized
-HSR,,,,,,,,,31,,,0.02731838015456578,uncharacterized
+heat_shock_2,,,,,,,,,31,,,0.02731838015456578,functional
 IdiB,,,,,,,,,10,,,0.004689533074959229,uncharacterized
 phosphate,,,,,,,,,17,,,0.003305417151330925,uncharacterized
 SG_5,,,,,,,,,4,,True,0.002836661201057633,single_gene
@@ -35,24 +35,24 @@ Biofilm-2,,,,,,,,,56,,,0.01720752645330803,uncharacterized
 Dark-Induced Transition,,,,,,,,,121,,,0.07043292480247842,uncharacterized
 Comp-2,,,,,,,,,41,,,0.0409163173168231,uncharacterized
 SG_7,,,,,,,,,4,,True,0.0018105981277816152,single_gene
-PhoTax,,,,,,,,,7,,,0.0073379859215408905,uncharacterized
+phototaxis,,,,,,,,,7,,,0.0073379859215408905,functional
 OxiTol,,,,,,,,,11,,,0.005690698083527401,uncharacterized
-PSII-2,,,,,,,,,44,,,0.034484279259080375,functional
+PSII_2,,,,,,,,,44,,,0.034484279259080375,uncharacterized
 SG_8,,,,,,,,,1,,True,0.00393492946841878,single_gene
 NtcA-2,ntcA,2.7704494437135294e-09,8.311348331140588e-09,0.175,0.3888888888888889,0.24137931034482757,7.0,18.0,40,1.0,,0.02126525698070214,regulatory
 SG_9,,,,,,,,,5,,True,0.0020213445003560704,single_gene
-unchar-5,,,,,,,,,120,,,0.008090300892443114,uncharacterized
+unchar_6,,,,,,,,,120,,,0.008090300892443114,uncharacterized
 SG_10,,,,,,,,,14,,True,0.0047472650553355145,single_gene
 State Transition,,,,,,,,,31,,,0.03451539802787784,uncharacterized
-unchar-6,,,,,,,,,5,,,0.01050031141572283,uncharacterized
+unchar_7,,,,,,,,,5,,,0.01050031141572283,uncharacterized
 SG_11,,,,,,,,,10,,True,0.001689711024963736,single_gene
 ccmR-2,ccmR,4.965228717762188e-10,9.930457435524376e-10,0.5,0.6666666666666666,0.5714285714285715,4.0,6.0,8,1.0,,0.002722572710020077,regulatory
 NtcA-3,,,,,,,,,8,,,0.005294927724815657,uncharacterized
 SG_12,,,,,,,,,9,,True,0.00251412481423674,single_gene
 SG_13,,,,,,,,,8,,True,0.0021047222368046903,single_gene
-ribosome-2,,,,,,,,,14,,,0.010813571300321345,functional
-unchar-7,,,,,,,,,4,,,0.0027508524155600567,uncharacterized
-unchar-8,,,,,,,,,21,,,0.006888498136164878,uncharacterized
+ribosome_2,,,,,,,,,14,,,0.010813571300321345,functional
+unchar_8,,,,,,,,,4,,,0.0027508524155600567,uncharacterized
+unchar_9,,,,,,,,,21,,,0.006888498136164878,uncharacterized
 sufR,sufR,2.985368872701147e-13,2.985368872701147e-13,0.625,0.8333333333333334,0.7142857142857143,5.0,6.0,8,1.0,,0.005669915968546602,regulatory
 NtcA-4,,,,,,,,,8,,,0.023951195233587685,uncharacterized
 SG_14,,,,,,,,,10,,True,0.0020060569338365974,single_gene
