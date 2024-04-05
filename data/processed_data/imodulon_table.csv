@@ -1,22 +1,22 @@
 ,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,explained_variance,type,category
-ccm-1,,,,,,,,,13,,,0.00508636102524207,Functional,Energy
+ccm-2,,,,,,,,,13,,,0.00508636102524207,Functional,Energy
 PSII,,,,,,,,,21,,,0.005835172635823782,Functional,Energy
 ribosome-1,,,,,,,,,26,,,0.009848911507520985,Functional,Translation
 SG_1,,,,,,,,,6,,True,0.0013766296763501051,Single_gene,Uncharacterized
 SG_2,,,,,,,,,3,,True,0.0017441271330175256,Single_gene,Metabolism
 kaiABC,,,,,,,,,8,,,0.005301661698255966,Genomic,Lifestyle
-UV,,,,,,,,,77,,,0.01831953863820024,Functional,Stress
+RpaB,,,,,,,,,77,,,0.01831953863820024,Functional,Stress
 unchar_1,,,,,,,,,16,,,0.01066757599522139,Uncharacterized,Uncharacterized
 unchar_2,,,,,,,,,45,,,0.013696012036437444,Uncharacterized,Uncharacterized
 SG_3,,,,,,,,,6,,True,0.0015531774297641299,Single_gene,Metabolism
 SG_4,,,,,,,,,9,,True,0.001757936212606781,Single_gene,Uncharacterized
 unchar_3,,,,,,,,,42,,,0.09723835292477734,Uncharacterized,Uncharacterized
 anL,,,,,,,,,4,,,0.005230721500119495,Functional,Transcription
-ccm-2,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,Regulatory,Transport
+ccm-1,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,Regulatory,Transport
 sigA2/rpoD2,,,,,,,,,8,,,0.011358112256121045,Genomic,Transcription
 livJHMGF,,,,,,,,,8,,,0.0023541130053275072,Functional,Metabolism
 Cytc_oxidases,,,,,,,,,19,,,0.022564860855927793,Functional,Energy
-heat shock,,,,,,,,,7,,,0.004461199775102509,Functional,Stress
+groELS,,,,,,,,,7,,,0.004461199775102509,Functional,Stress
 iron,,,,,,,,,10,,,0.004887496595742835,Functional,Metabolism
 OXPHOS,,,,,,,,,45,,,0.00801646160556202,Functional,Energy
 unchar_4,,,,,,,,,34,,,0.006213621003348657,Uncharacterized,Uncharacterized
@@ -43,7 +43,7 @@ NtcA-2,ntcA,2.7704494437135294e-09,8.311348331140588e-09,0.175,0.388888888888888
 SG_9,,,,,,,,,5,,True,0.0020213445003560704,Single_gene,Translation
 unchar_6,,,,,,,,,120,,,0.008090300892443114,Uncharacterized,Uncharacterized
 SG_10,,,,,,,,,14,,True,0.0047472650553355145,Single_gene,Transcription
-state_transition,,,,,,,,,31,,,0.03451539802787784,Uncharacterized,Uncharacterized
+RpaC,,,,,,,,,31,,,0.03451539802787784,Uncharacterized,Uncharacterized
 unchar_7,,,,,,,,,5,,,0.01050031141572283,Uncharacterized,Uncharacterized
 SG_11,,,,,,,,,10,,True,0.001689711024963736,Single_gene,Uncharacterized
 sps,ccmR,4.965228717762188e-10,9.930457435524376e-10,0.5,0.6666666666666666,0.5714285714285715,4.0,6.0,8,1.0,,0.002722572710020077,Genomic,Transport
