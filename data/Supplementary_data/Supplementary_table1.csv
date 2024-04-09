@@ -1,0 +1,122 @@
+,gene_weight,gene_name,accession,old_locus_tag,start,end,strand,gene_product,COG,uniprot,operon,regulator,gene_type
+Synpcc7942_0004,-0.0474252363153578,purF,CP000100.1,,4596,6077,+,amidophosphoribosyltransferase,Nucleotide transport and metabolism,Q55038,Op6,sphR,dawn
+Synpcc7942_0005,0.046374629862673,Synpcc7942_0005,CP000100.1,,6111,7706,-,conserved hypothetical protein,Inorganic ion transport and metabolism,Q31SD2,Op13,,dusk
+Synpcc7942_0039,0.0454949858464053,gnd,CP000100.1,,37130,38545,+,6-phosphogluconate dehydrogenase (decarboxylating),Coenzyme transport and metabolism,P21577,Op63,,dusk
+Synpcc7942_0095,0.0408277166313999,rpaA,CP000100.1,,92590,93339,-,two component transcriptional regulator%2C winged helix family,Transcription,Q31S42,Op108,,
+Synpcc7942_0157,0.0634208528492564,Synpcc7942_0157,CP000100.1,,159042,159560,-,conserved hypothetical protein,No COG annotation,Q31RY0,Op155,,dusk
+Synpcc7942_0198,0.0383295894251782,ndbC,CP000100.1,,198993,200429,-,type 2 NADH dehydrogenase,Energy production and conversion,Q31RT9,Op183,,dusk
+Synpcc7942_0199,0.0356581134989467,Synpcc7942_0199,CP000100.1,,200426,201352,-,conserved hypothetical protein,Function unknown,Q31RT8,Op183,,dusk
+Synpcc7942_0200,0.0487752230642547,Synpcc7942_0200,CP000100.1,,201352,201888,-,conserved hypothetical protein,Function unknown,Q31RT7,Op183,,dusk
+Synpcc7942_0201,0.0605542843303049,ccoO,CP000100.1,,201889,202641,-,conserved hypothetical protein,No COG annotation,Q31RT6,Op183,,dusk
+Synpcc7942_0202,0.0594811090728624,ccoN,CP000100.1,,202638,204089,-,Cbb3-type cytochrome oxidase subunit 1-like,No COG annotation,Q31RT5,Op183,,dusk
+Synpcc7942_0244,0.0784822767275247,glgP,CP000100.1,,238622,241156,-,Glycogen/starch/alpha-glucan phosphorylase,Carbohydrate transport and metabolism,Q31RP3,Op215,,dusk
+Synpcc7942_0245,0.1158349442444593,gap1,CP000100.1,,241168,242229,-,glyceraldehyde-3-phosphate dehydrogenase,Energy production and conversion,Q31RP2,Op215,,dusk
+Synpcc7942_0278,0.073396511445304,hoxE,CP000100.1,,273657,274154,+,NADH:ubiquinone oxidoreductase 24 kD subunit-like,Energy production and conversion,Q31RK9,Op235,,dusk
+Synpcc7942_0302,0.0552354525655275,cls,CP000100.1,,300008,301447,-,Phospholipase D/Transphosphatidylase,Lipid transport and metabolism,Q31RI5,Op252,,dusk
+Synpcc7942_0304,0.1767676707146102,Synpcc7942_0304,CP000100.1,,302833,303480,+,conserved hypothetical protein,Coenzyme transport and metabolism,Q31RI3,Op254,,dusk
+Synpcc7942_0305,0.037298246411969,Synpcc7942_0305,CP000100.1,,303815,304045,+,hypothetical protein,No COG annotation,Q31RI2,Op255,,dusk
+Synpcc7942_0316,0.0399741657387603,Synpcc7942_0316,CP000100.1,,314432,314623,-,conserved hypothetical protein,No COG annotation,Q31RH1,Op262,,dusk
+Synpcc7942_0369,0.1174707278638309,Synpcc7942_0369,CP000100.1,,362147,363601,+,putative flavin-containing monoamine oxidase,Amino acid transport and metabolism,Q31RB8,Op301,,dusk
+Synpcc7942_0371,0.0314845117828094,metA,CP000100.1,,365116,366015,+,homoserine O-succinyltransferase,Amino acid transport and metabolism,Q31RB6,Op302,,dusk
+Synpcc7942_0375,-0.0551054149643031,Synpcc7942_0375,CP000100.1,,368929,370344,-,processing protease,Function unknown,Q31RB2,Op306,,dawn
+Synpcc7942_0376,-0.0523827102533936,Synpcc7942_0376,CP000100.1,,370341,371867,-,putative zinc protease protein,Function unknown,Q31RB1,Op306,,dawn
+Synpcc7942_0377,-0.0434748609272224,Synpcc7942_0377,CP000100.1,,371868,372206,-,conserved hypothetical protein,No COG annotation,Q31RB0,Op306,,dawn
+Synpcc7942_0383,0.0406559726684712,Synpcc7942_0383,CP000100.1,,375762,376448,-,hypothetical protein,Function unknown,Q31RA4,Op310,,dusk
+Synpcc7942_0465,-0.0501754028886527,Synpcc7942_0465,CP000100.1,,451023,451748,-,conserved hypothetical protein,Function unknown,Q31R22,Op373,,dawn
+Synpcc7942_0466,-0.0451760089858528,bcsA1,CP000100.1,,451838,454087,+,Cellulose synthase (UDP-forming),Cell wall/membrane/envelope biogenesis,Q31R21,Op374,,dawn
+Synpcc7942_0469,-0.033257994447646,pgmM,CP000100.1,,455066,456664,-,phosphoglycerate mutase,Carbohydrate transport and metabolism,Q31R18,Op375,,dawn
+Synpcc7942_0493,0.0465697035742769,Synpcc7942_0493,CP000100.1,,480967,482451,+,conserved hypothetical protein,Function unknown,Q31QZ4,Op395,,dusk
+Synpcc7942_0527,0.0623993226538172,Synpcc7942_0527,CP000100.1,,511398,512234,-,conserved hypothetical protein,No COG annotation,Q31QW0,Op415,,dusk
+Synpcc7942_0556,0.1236232587305308,srrB,CP000100.1,,538506,539219,-,two component transcriptional regulator%2C winged helix family,Transcription,Q31QT1,Op435,,dusk
+Synpcc7942_0557,0.0431284543862359,Synpcc7942_0557,CP000100.1,,539414,539605,+,hypothetical protein,No COG annotation,Q31QT0,Op436,,
+Synpcc7942_0581,0.0689991657176629,Synpcc7942_0581,CP000100.1,,562634,562981,-,conserved hypothetical protein,No COG annotation,Q31QQ6,Op454,,dusk
+Synpcc7942_0599,0.088293131924997,Synpcc7942_0599,CP000100.1,,587802,588404,-,putative transcriptional regulator%2C TetR family,Transcription,Q31QN8,Op467,,dusk
+Synpcc7942_0644,0.037387724354445,cikA,CP000100.1,,637075,639339,+,GAF sensor hybrid histidine kinase,Signal transduction mechanisms,Q9KHI5,Op503,,dusk
+Synpcc7942_0657,-0.035935141205656,Synpcc7942_0657,CP000100.1,,653047,653388,-,conserved hypothetical protein,Function unknown,Q31QI0,Op512,,dawn
+Synpcc7942_0680,0.0369959700115588,erg3,CP000100.1,,674334,675149,+,C-5 sterol desaturase,Lipid transport and metabolism,Q31QF7,Op530,,dusk
+Synpcc7942_0797,0.1156156789035135,Synpcc7942_0797,CP000100.1,,792010,792270,+,hypothetical protein,No COG annotation,Q31Q40,Op614,,dusk
+Synpcc7942_0834,0.1626932117429085,Synpcc7942_0834,CP000100.1,,828582,829235,+,conserved hypothetical protein,No COG annotation,Q31Q04,Op640,,dusk
+Synpcc7942_0855,-0.0515997561815864,pixG,CP000100.1,,853629,854882,+,response regulator receiver domain protein (CheY-like),Signal transduction mechanisms,Q31PY4,Op656,,dawn
+Synpcc7942_0856,-0.0468835712606237,cheY2,CP000100.1,,854933,855295,+,response regulator receiver domain protein (CheY-like),Signal transduction mechanisms,Q31PY3,Op657,,dawn
+Synpcc7942_0857,-0.0454135242787491,Synpcc7942_0857,CP000100.1,,855315,855821,+,CheW protein,Cell motility,Q31PY2,Op657,,dawn
+Synpcc7942_0858,-0.0365723505433936,pixJ,CP000100.1,,855893,860113,+,methyl-accepting chemotaxis sensory transducer with phytochrome sensor,Signal transduction mechanisms,Q31PY1,Op658,,dawn
+Synpcc7942_0891,0.0321391641179423,Synpcc7942_0891,CP000100.1,,901736,902035,+,conserved hypothetical protein,Function unknown,Q31PU8,Op682,,dusk
+Synpcc7942_0905,-0.0582539892270089,Synpcc7942_0905,CP000100.1,,915588,916130,+,hypothetical protein,No COG annotation,Q31PT4,Op694,,dawn
+Synpcc7942_0906,-0.0316954446369533,Synpcc7942_0906,CP000100.1,,916262,916747,+,hypothetical protein,No COG annotation,Q31PT3,Op695,,dawn
+Synpcc7942_0989,0.0360158359471963,Synpcc7942_0989,CP000100.1,,997379,997822,-,conserved hypothetical protein,No COG annotation,Q31PK0,Op757,,dusk
+Synpcc7942_1032,0.047510118699758,Synpcc7942_1032,CP000100.1,,1046506,1047972,+,conserved hypothetical protein,Function unknown,Q31PF7,Op789,,dusk
+Synpcc7942_1033,0.0446210379624155,Synpcc7942_1033,CP000100.1,,1047992,1048948,+,conserved hypothetical protein,Function unknown,Q31PF6,Op789,,dusk
+Synpcc7942_1150,0.0870719537914145,Synpcc7942_1150,CP000100.1,,1175078,1175734,-,conserved hypothetical protein,Function unknown,Q31P39,Op877,,dusk
+Synpcc7942_1156,0.0854063429256384,Synpcc7942_1156,CP000100.1,,1183497,1186094,+,conserved hypothetical protein,"Replication, recombination and repair",Q31P33,Op882,,dusk
+Synpcc7942_1157,0.0722487045897338,Synpcc7942_1157,CP000100.1,,1186081,1189266,+,conserved hypothetical protein,"Replication, recombination and repair",Q31P32,Op882,,dusk
+Synpcc7942_1164,0.0916556937950197,Synpcc7942_1164,CP000100.1,,1197417,1198841,+,conserved hypothetical protein,No COG annotation,Q31P25,Op887,,dusk
+Synpcc7942_1216,0.0626615578105717,kaiC,CP000100.1,,1238550,1240109,-,circadian clock protein KaiC,Nucleotide transport and metabolism,Q79PF4,Op918,,dusk
+Synpcc7942_1217,0.0790045887484408,kaiB,CP000100.1,,1240159,1240467,-,circadian clock protein KaiB,Transcription,Q79PF5,Op919,,dusk
+Synpcc7942_1234,0.0654419110986691,Synpcc7942_1234,CP000100.1,,1254739,1255242,+,conserved hypothetical protein,"Post-translational modification, protein turnover, and chaperones",Q31NV5,Op933,,dusk
+Synpcc7942_1336,0.0530533423136113,Synpcc7942_1336,CP000100.1,,1367261,1368343,+,conserved hypothetical protein,Function unknown,Q31NK3,Op1004,,dusk
+Synpcc7942_1337,0.0322532417687881,itgA,CP000100.1,,1368411,1372715,+,Integrins alpha chain,"Secondary metabolites biosynthesis, transport, and catabolism",Q31NK2,Op1005,,dusk
+Synpcc7942_1354,0.1005054208427984,Synpcc7942_1354,CP000100.1,,1386587,1388083,+,putative export protein,Amino acid transport and metabolism,Q31NI5,Op1016,,dusk
+Synpcc7942_1391,0.1249009971911795,Synpcc7942_1391,CP000100.1,,1436154,1437692,+,Mg chelatase-related protein,"Post-translational modification, protein turnover, and chaperones",Q31NE8,Op1049,,dusk
+Synpcc7942_1402,0.0565353537448778,Synpcc7942_1402,CP000100.1,,1453317,1454576,+,conserved hypothetical protein,"Translation, ribosomal structure and biogenesis",Q31ND7,Op1057,,dusk
+Synpcc7942_1476,-0.0342481132672717,Synpcc7942_1476,CP000100.1,,1527717,1528031,+,conserved hypothetical protein,Amino acid transport and metabolism,Q31N63,Op1114,,dawn
+Synpcc7942_1506,0.0314922954932748,Synpcc7942_1506,CP000100.1,,1556097,1556513,-,conserved hypothetical protein,Function unknown,Q31N33,Op1131,,dusk
+Synpcc7942_1548,-0.0421635795228096,Synpcc7942_1548,CP000100.1,,1604319,1605638,-,probable amidase,Energy production and conversion,Q31MZ1,Op1167,,dawn
+Synpcc7942_1556,0.0610574746162499,Synpcc7942_1556,CP000100.1,,1612870,1613448,+,conserved hypothetical protein,No COG annotation,Q31MY3,Op1175,,dusk
+Synpcc7942_1557,0.0314033901866184,rpoA6,CP000100.1,,1613464,1614396,-,principal RNA polymerase sigma factor SigA,Transcription,Q31MY2,Op1176,,dusk
+Synpcc7942_1567,0.1164064351529534,Synpcc7942_1567,CP000100.1,,1625702,1626019,-,possible ribosomal protein L36,No COG annotation,Q31MX2,Op1184,,dusk
+Synpcc7942_1572,0.1045644211889618,Synpcc7942_1572,CP000100.1,,1631339,1632925,+,dehydrogenase subunit-like protein,Amino acid transport and metabolism,Q31MW7,Op1189,,dusk
+Synpcc7942_1573,0.099336785937429,dhg2,CP000100.1,,1632994,1633794,+,3-oxoacyl-(acyl-carrier protein) reductase,Lipid transport and metabolism,Q8KPV3,Op1190,,dusk
+Synpcc7942_1574,0.0638366894426451,Synpcc7942_1574,CP000100.1,,1633895,1636567,+,probable glucosidase,Cell wall/membrane/envelope biogenesis,Q31MW5,Op1191,,dusk
+Synpcc7942_1575,0.0376361985017563,malQ,CP000100.1,,1636580,1638625,+,Glycogen debranching enzyme,Carbohydrate transport and metabolism,Q8KPV1,Op1191,,dusk
+Synpcc7942_1576,0.0327734974431453,Synpcc7942_1576,CP000100.1,,1638668,1640059,+,putative chloride channel protein%2C CIC family,Inorganic ion transport and metabolism,Q8KPV0,Op1192,,
+Synpcc7942_1610,0.1607663901031479,pntB,CP000100.1,,1678977,1680389,-,pyridine nucleotide transhydrogenase beta subunit,Energy production and conversion,Q31MS9,Op1216,,dusk
+Synpcc7942_1611,0.1642966126278645,Synpcc7942_1611,CP000100.1,,1680389,1680682,-,nicotinamide nucleotide transhydrogenase alpha subunit-like,Energy production and conversion,Q31MS8,Op1216,,dusk
+Synpcc7942_1612,0.1833648979863477,pntA,CP000100.1,,1680679,1681905,-,pyridine nucleotide transhydrogenase alpha subunit,Energy production and conversion,Q31MS7,Op1216,,dusk
+Synpcc7942_1653,0.0669024489165739,Synpcc7942_1653,CP000100.1,,1723540,1724736,-,glycerol dehydrogenase,Energy production and conversion,Q31MN6,Op1248,,dusk
+Synpcc7942_1655,0.0326845746453021,Synpcc7942_1655,CP000100.1,,1725260,1725829,-,hypothetical protein,No COG annotation,Q31MN4,Op1249,,dusk
+Synpcc7942_1656,0.0340720559811976,katG,CP000100.1,,1725919,1728081,-,catalase/peroxidase HPI,Coenzyme transport and metabolism,Q31MN3,Op1250,,dusk
+Synpcc7942_1661,0.1014305904563722,Synpcc7942_1661,CP000100.1,,1731159,1731722,+,conserved hypothetical protein,No COG annotation,Q31MM8,Op1255,,dusk
+Synpcc7942_1668,0.0884956723700432,kdpA,CP000100.1,,1737882,1739552,+,potassium-transporting ATPase%2C A subunit,Inorganic ion transport and metabolism,Q31MM1,Op1261,,dusk
+Synpcc7942_1669,0.052863909190966,kdpB,CP000100.1,,1739595,1741685,+,Potassium-translocating P-type ATPase%2C B subunit,Inorganic ion transport and metabolism,Q31MM0,Op1261,,dusk
+Synpcc7942_1670,0.0378895229359653,Synpcc7942_1670,CP000100.1,,1741687,1741833,+,hypothetical protein,No COG annotation,Q31ML9,Op1262,,dusk
+Synpcc7942_1671,0.0570592188905094,kdpC,CP000100.1,,1741836,1742447,+,potassium-transporting ATPase%2C C subunit,Inorganic ion transport and metabolism,Q31ML8,Op1261,,dusk
+Synpcc7942_1757,0.1196690432786387,-,CP000100.1,,1824648,1824935,+,hypothetical protein,No COG annotation,Q31MD2,Op1323,,dusk
+Synpcc7942_1804,0.0582752398280084,Synpcc7942_1804,CP000100.1,,1873843,1874397,-,conserved hypothetical protein,No COG annotation,Q31M85,Op1361,,dusk
+Synpcc7942_1849,0.1502852393027827,rpoA5,CP000100.1,,1916620,1917816,+,group2 RNA polymerase sigma factor SigC,Transcription,Q31M40,Op1397,,dusk
+Synpcc7942_1896,0.0433912184906577,argJ,CP000100.1,,1968654,1969898,-,N-acetylglutamate synthase / glutamate N-acetyltransferase,Amino acid transport and metabolism,Q31LZ3,Op1428,,dusk
+Synpcc7942_1960,0.0960482086578878,Synpcc7942_1960,CP000100.1,,2032190,2032696,-,conserved hypothetical protein,Function unknown,Q31LS9,Op1475,,dusk
+Synpcc7942_1991,0.0665090619264912,mscL,CP000100.1,,2061920,2062321,-,large conductance mechanosensitive channel protein,Cell wall/membrane/envelope biogenesis,Q31LP8,Op1498,,dusk
+Synpcc7942_2078,0.0336474678446493,pgam3,CP000100.1,,2155927,2156565,-,phosphoglycerate mutase,Carbohydrate transport and metabolism,Q31LG1,Op1564,,dusk
+Synpcc7942_2079,0.0599577302507127,ackA,CP000100.1,,2156574,2157755,-,acetate kinase,Nucleotide transport and metabolism,Q31LG0,Op1564,crp,dusk
+Synpcc7942_2080,0.0394444460716156,xfp,CP000100.1,,2158038,2160428,+,Fructose-6-phosphate phosphoketolase,Carbohydrate transport and metabolism,Q31LF9,Op1565,,dusk
+Synpcc7942_2082,0.1263754181004661,fusA,CP000100.1,,2161587,2163575,-,elongation factor EF-G,"Translation, ribosomal structure and biogenesis",Q31LF7,Op1567,,dusk
+Synpcc7942_2185,0.1310803137309882,Synpcc7942_2185,CP000100.1,,2263403,2263807,+,conserved hypothetical protein,Lipid transport and metabolism,Q31L54,Op1650,,dusk
+Synpcc7942_2237,0.0405612483189469,Synpcc7942_2237,CP000100.1,,2303053,2303487,-,conserved hypothetical protein,Coenzyme transport and metabolism,Q31L02,Op1676,,dusk
+Synpcc7942_2238,0.0673630210881074,Synpcc7942_2238,CP000100.1,,2303629,2305044,-,glucose transport protein,Amino acid transport and metabolism,Q31L01,Op1677,,dusk
+Synpcc7942_2254,0.04396178857855,Synpcc7942_2254,CP000100.1,,2323399,2324757,-,conserved hypothetical protein,Cell motility,Q31KY5,Op1690,,dusk
+Synpcc7942_2267,0.1429371134614326,Synpcc7942_2267,CP000100.1,,2335846,2336103,+,hypothetical protein,No COG annotation,Q31KX2,Op1700,,dusk
+Synpcc7942_2279,0.0642245757906177,amtB,CP000100.1,,2347614,2349026,+,ammonium transporter,Inorganic ion transport and metabolism,Q31KW0,Op1708,,dusk
+Synpcc7942_2297,0.0409927594871491,tal,CP000100.1,,2367528,2368721,-,transaldolase,Nucleotide transport and metabolism,Q31KU2,Op1719,,dusk
+Synpcc7942_2306,0.0498794666874103,Synpcc7942_2306,CP000100.1,,2374134,2374721,+,Heat shock protein DnaJ-like,"Post-translational modification, protein turnover, and chaperones",Q31KT3,Op1726,,dusk
+Synpcc7942_2307,0.0498278857182965,Synpcc7942_2307,CP000100.1,,2374725,2375735,+,conserved hypothetical protein,Defense mechanisms,Q31KT2,Op1726,,dusk
+Synpcc7942_2326,0.1473500449920548,Synpcc7942_2326,CP000100.1,,2393509,2394261,+,conserved hypothetical protein,Function unknown,Q31KR3,Op1740,,dusk
+Synpcc7942_2328,0.031536635197955,Synpcc7942_2328,CP000100.1,,2394836,2395927,+,TPR repeat,Function unknown,Q31KR1,Op1742,,
+Synpcc7942_2333,0.1072096338290154,opcA,CP000100.1,,2399962,2401299,-,opcA protein,Carbohydrate transport and metabolism,Q54709,Op1746,,dusk
+Synpcc7942_2334,0.1180369780510107,zwf,CP000100.1,,2401339,2402874,-,glucose-6-phosphate 1-dehydrogenase,Carbohydrate transport and metabolism,P29686,Op1746,,dusk
+Synpcc7942_2335,0.1288027071026879,fbp,CP000100.1,,2402921,2403955,-,D-fructose 1%2C6-bisphosphatase,Carbohydrate transport and metabolism,Q59943,Op1747,,dusk
+Synpcc7942_2336,0.1807478236059551,Synpcc7942_2336,CP000100.1,,2404216,2404389,-,hypothetical protein,No COG annotation,Q31KQ3,Op1748,,dusk
+Synpcc7942_2384,0.0629381992842005,nifJ,CP000100.1,,2451384,2454974,+,Pyruvate:ferredoxin (flavodoxin) oxidoreductase,Energy production and conversion,Q31KK5,Op1783,,dusk
+Synpcc7942_2385,0.0492818289021997,Synpcc7942_2385,CP000100.1,,2454974,2455996,+,conserved hypothetical protein,Nucleotide transport and metabolism,Q31KK4,Op1783,,dusk
+Synpcc7942_2387,0.0384937624396491,Synpcc7942_2387,CP000100.1,,2457103,2459118,-,conserved hypothetical protein,Energy production and conversion,Q31KK2,Op1784,,dusk
+Synpcc7942_2388,0.0576132224253511,oxdC,CP000100.1,,2459162,2460331,-,Oxalate decarboxylase,Carbohydrate transport and metabolism,Q31KK1,Op1785,,dusk
+Synpcc7942_2461,0.1217841057372002,Synpcc7942_2461,CP000100.1,,2541304,2542737,-,conserved hypothetical protein,Amino acid transport and metabolism,Q31KC8,Op1843,,dusk
+Synpcc7942_2500,0.0321644220409056,Synpcc7942_2500,CP000100.1,,2581096,2581716,-,conserved hypothetical protein,No COG annotation,Q31K89,Op1872,,dusk
+Synpcc7942_2551,0.0683723435851749,hypF,CP000100.1,,2629750,2632062,-,(NiFe) hydrogenase maturation protein HypF,"Post-translational modification, protein turnover, and chaperones",Q31K38,Op1911,,dusk
+Synpcc7942_2555,0.0932246575068417,hoxH,CP000100.1,,2633656,2635086,-,NAD-reducing hydrogenase HoxS beta subunit,Energy production and conversion,Q31K34,Op1912,,dusk
+Synpcc7942_2556,0.0975948106398991,hoxY,CP000100.1,,2635096,2635650,-,NAD-reducing hydrogenase HoxS delta subunit,Energy production and conversion,Q31K33,Op1912,,dusk
+Synpcc7942_2557,0.1347548718016601,hoxU,CP000100.1,,2635638,2636354,-,NAD-reducing hydrogenase HoxS gamma subunit,Energy production and conversion,Q31K32,Op1912,,dusk
+Synpcc7942_2590,0.0995455584247444,Synpcc7942_2590,CP000100.1,,2674093,2674608,+,pilin-like protein-like,No COG annotation,Q31JZ9,Op1935,,dusk
+Synpcc7942_2591,0.08740318941316,Synpcc7942_2591,CP000100.1,,2674605,2675273,+,conserved hypothetical protein,"Intracellular trafficking, secretion, and vesicular transport",Q31JZ8,Op1935,,dusk
+Synpcc7942_2602,0.0474646193263088,ctaC,CP000100.1,,2684044,2684991,+,cytochrome c oxidase subunit II,Energy production and conversion,Q31JY7,Op1943,,dusk
+Synpcc7942_2603,0.0429813957852326,ctaD,CP000100.1,,2685051,2686676,+,Cytochrome-c oxidase,Energy production and conversion,Q31JY6,Op1943,,dusk
+Synpcc7942_2604,0.0397081434231921,ctaE,CP000100.1,,2686728,2687315,+,cytochrome c oxidase subunit III,Energy production and conversion,Q31JY5,Op1943,,dusk
