@@ -1,58 +1,58 @@
-,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,explained_variance,type,category
-ccm-2,,,,,,,,,13,,,0.00508636102524207,Functional,Energy
-PSII,,,,,,,,,21,,,0.005835172635823782,Functional,Energy
-ribosome-1,,,,,,,,,26,,,0.009848911507520985,Functional,Translation
-SG_1,,,,,,,,,6,,True,0.0013766296763501051,Single_gene,Uncharacterized
-SG_2,,,,,,,,,3,,True,0.0017441271330175256,Single_gene,Metabolism
-kaiABC,,,,,,,,,8,,,0.005301661698255966,Genomic,Lifestyle
-RpaB,,,,,,,,,77,,,0.01831953863820024,Functional,Stress
-unchar_1,,,,,,,,,16,,,0.01066757599522139,Uncharacterized,Uncharacterized
-unchar_2,,,,,,,,,45,,,0.013696012036437444,Uncharacterized,Uncharacterized
-SG_3,,,,,,,,,6,,True,0.0015531774297641299,Single_gene,Metabolism
-SG_4,,,,,,,,,9,,True,0.001757936212606781,Single_gene,Uncharacterized
-unchar_3,,,,,,,,,42,,,0.09723835292477734,Uncharacterized,Uncharacterized
-anL,,,,,,,,,4,,,0.005230721500119495,Functional,Transcription
-ccm-1,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,Regulatory,Transport
-sigA2/rpoD2,,,,,,,,,8,,,0.011358112256121045,Genomic,Transcription
-livJHMGF,,,,,,,,,8,,,0.0023541130053275072,Functional,Metabolism
-Cytc_oxidases,,,,,,,,,19,,,0.022564860855927793,Functional,Energy
-groELS,,,,,,,,,7,,,0.004461199775102509,Functional,Stress
-iron,,,,,,,,,10,,,0.004887496595742835,Functional,Metabolism
-OXPHOS,,,,,,,,,45,,,0.00801646160556202,Functional,Energy
-unchar_4,,,,,,,,,34,,,0.006213621003348657,Uncharacterized,Uncharacterized
-NtcA-1,ntcA,1.2589983152339448e-25,2.5179966304678896e-25,0.75,0.6666666666666666,0.7058823529411765,12.0,18.0,16,1.0,,0.017041910443655106,Regulatory,Metabolism
-Biofilm-1,,,,,,,,,5,,,0.004883979861916354,Functional,Lifestyle
-prophage,,,,,,,,,41,,,0.007525061924674059,Uncharacterized,Uncharacterized
-unchar_5,,,,,,,,,101,,,0.00444960740014444,Uncharacterized,Uncharacterized
-CysR,,,,,,,,,29,,,0.011653866560567439,Functional,Metabolism
-HSR,,,,,,,,,31,,,0.02731838015456578,Functional,Stress
-IdiB,,,,,,,,,10,,,0.004689533074959229,Functional,Metabolism
-phosphate,,,,,,,,,17,,,0.003305417151330925,Functional,Metabolism
-SG_5,,,,,,,,,4,,True,0.002836661201057633,Single_gene,Uncharacterized
-SG_6,,,,,,,,,10,,True,0.0015892521069809096,Single_gene,Uncharacterized
-membrane,,,,,,,,,30,,,0.007565526714528703,Uncharacterized,Uncharacterized
-Biofilm-2,,,,,,,,,56,,,0.01720752645330803,Genomic,Lifestyle
-RpaA,,,,,,,,,121,,,0.07043292480247842,Regulatory,Transcription
-competence,,,,,,,,,41,,,0.0409163173168231,Uncharacterized,Uncharacterized
-SG_7,,,,,,,,,4,,True,0.0018105981277816152,Single_gene,Uncharacterized
-phototaxis,,,,,,,,,7,,,0.0073379859215408905,Functional,Lifestyle
-oxi_stress_tolerance,,,,,,,,,11,,,0.005690698083527401,Functional,Stress
-Photosystems,,,,,,,,,44,,,0.034484279259080375,Functional,Energy
-SG_8,,,,,,,,,1,,True,0.00393492946841878,Single_gene,Uncharacterized
-NtcA-2,ntcA,2.7704494437135294e-09,8.311348331140588e-09,0.175,0.3888888888888889,0.24137931034482757,7.0,18.0,40,1.0,,0.02126525698070214,Regulatory,Metabolism
-SG_9,,,,,,,,,5,,True,0.0020213445003560704,Single_gene,Translation
-unchar_6,,,,,,,,,120,,,0.008090300892443114,Uncharacterized,Uncharacterized
-SG_10,,,,,,,,,14,,True,0.0047472650553355145,Single_gene,Transcription
-RpaC,,,,,,,,,31,,,0.03451539802787784,Uncharacterized,Uncharacterized
-unchar_7,,,,,,,,,5,,,0.01050031141572283,Uncharacterized,Uncharacterized
-SG_11,,,,,,,,,10,,True,0.001689711024963736,Single_gene,Uncharacterized
-sps,ccmR,4.965228717762188e-10,9.930457435524376e-10,0.5,0.6666666666666666,0.5714285714285715,4.0,6.0,8,1.0,,0.002722572710020077,Genomic,Transport
-unchar_8,,,,,,,,,8,,,0.005294927724815657,Uncharacterized,Uncharacterized
-SG_12,,,,,,,,,9,,True,0.00251412481423674,Single_gene,Uncharacterized
-SG_13,,,,,,,,,8,,True,0.0021047222368046903,Single_gene,Uncharacterized
-ribosome-2,,,,,,,,,14,,,0.010813571300321345,Functional,Translation
-unchar_9,,,,,,,,,4,,,0.0027508524155600567,Uncharacterized,Uncharacterized
-unchar_10,,,,,,,,,21,,,0.006888498136164878,Uncharacterized,Uncharacterized
-sufR,sufR,2.985368872701147e-13,2.985368872701147e-13,0.625,0.8333333333333334,0.7142857142857143,5.0,6.0,8,1.0,,0.005669915968546602,Regulatory,Metabolism
-unchar_11,,,,,,,,,8,,,0.023951195233587685,Uncharacterized,Uncharacterized
-SG_14,,,,,,,,,10,,True,0.0020060569338365974,Single_gene,Uncharacterized
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,explained_variance,type,category,Function
+ccm-2,,,,,,,,,13,,,0.00508636102524207,Functional,Energy,carbon concentration
+PSII,,,,,,,,,21,,,0.005835172635823782,Functional,Energy,photosystems II proteins
+ribosome-1,,,,,,,,,26,,,0.009848911507520985,Functional,Translation,translation and ribosomal proteins
+SG_1,,,,,,,,,6,,True,0.0013766296763501051,Single_gene,Uncharacterized,
+SG_2,,,,,,,,,3,,True,0.0017441271330175256,Single_gene,Metabolism,
+kaiABC,,,,,,,,,8,,,0.005301661698255966,Genomic,Lifestyle,clock genes
+RpaB,,,,,,,,,77,,,0.01831953863820024,Functional,Stress,genes associated with high light response regulator RpaB
+unchar_1,,,,,,,,,16,,,0.01066757599522139,Uncharacterized,Uncharacterized,
+unchar_2,,,,,,,,,45,,,0.013696012036437444,Uncharacterized,Uncharacterized,
+SG_3,,,,,,,,,6,,True,0.0015531774297641299,Single_gene,Metabolism,
+SG_4,,,,,,,,,9,,True,0.001757936212606781,Single_gene,Uncharacterized,
+unchar_3,,,,,,,,,42,,,0.09723835292477734,Uncharacterized,Uncharacterized,
+anL,,,,,,,,,4,,,0.005230721500119495,Functional,Transcription,
+ccm-1,ccmR,1.3977158593115055e-10,1.3977158593115055e-10,0.22727272727272727,0.8333333333333334,0.35714285714285715,5.0,6.0,22,1.0,,0.02731761782034048,Regulatory,Transport,carbon concentration
+sigA2/rpoD2,,,,,,,,,8,,,0.011358112256121045,Genomic,Transcription,sigma factor
+livJHMGF,,,,,,,,,8,,,0.0023541130053275072,Functional,Metabolism,BCAA transporters
+Cytc_oxidases,,,,,,,,,19,,,0.022564860855927793,Functional,Energy,cytochrome oxidase subunits
+groELS,,,,,,,,,7,,,0.004461199775102509,Functional,Stress,heat shock
+iron,,,,,,,,,10,,,0.004887496595742835,Functional,Metabolism,iron metabolism
+OXPHOS,,,,,,,,,45,,,0.00801646160556202,Functional,Energy,oxidative phosphorylation
+unchar_4,,,,,,,,,34,,,0.006213621003348657,Uncharacterized,Uncharacterized,
+NtcA-1,ntcA,1.2589983152339448e-25,2.5179966304678896e-25,0.75,0.6666666666666666,0.7058823529411765,12.0,18.0,16,1.0,,0.017041910443655106,Regulatory,Metabolism,nitrogen metabolism
+Biofilm-1,,,,,,,,,5,,,0.004883979861916354,Functional,Lifestyle,biofilm related genes - potentially essential for EbfG secretion
+prophage,,,,,,,,,41,,,0.007525061924674059,Uncharacterized,Uncharacterized,phage-related proteins
+unchar_5,,,,,,,,,101,,,0.00444960740014444,Uncharacterized,Uncharacterized,
+CysR,,,,,,,,,29,,,0.011653866560567439,Functional,Metabolism,sulfur metabolism
+HSR,,,,,,,,,31,,,0.02731838015456578,Functional,Stress,heat shock proteins
+IdiB,,,,,,,,,10,,,0.004689533074959229,Functional,Metabolism,iron metabolism
+phosphate,,,,,,,,,17,,,0.003305417151330925,Functional,Metabolism,phosphate metabolism
+SG_5,,,,,,,,,4,,True,0.002836661201057633,Single_gene,Uncharacterized,
+SG_6,,,,,,,,,10,,True,0.0015892521069809096,Single_gene,Uncharacterized,
+membrane,,,,,,,,,30,,,0.007565526714528703,Uncharacterized,Uncharacterized,
+Biofilm-2,,,,,,,,,56,,,0.01720752645330803,Genomic,Lifestyle,biofilm related genes
+RpaA,,,,,,,,,121,,,0.07043292480247842,Regulatory,Transcription,Global circadian control
+competence,,,,,,,,,41,,,0.0409163173168231,Uncharacterized,Uncharacterized,
+SG_7,,,,,,,,,4,,True,0.0018105981277816152,Single_gene,Uncharacterized,
+phototaxis,,,,,,,,,7,,,0.0073379859215408905,Functional,Lifestyle,phototaxis
+oxi_stress_tolerance,,,,,,,,,11,,,0.005690698083527401,Functional,Stress,oxidative stress tolerance
+Photosystems,,,,,,,,,44,,,0.034484279259080375,Functional,Energy,Photosystems proteins
+SG_8,,,,,,,,,1,,True,0.00393492946841878,Single_gene,Uncharacterized,
+NtcA-2,ntcA,2.7704494437135294e-09,8.311348331140588e-09,0.175,0.3888888888888889,0.24137931034482757,7.0,18.0,40,1.0,,0.02126525698070214,Regulatory,Metabolism,nitrogen metabolism
+SG_9,,,,,,,,,5,,True,0.0020213445003560704,Single_gene,Translation,
+unchar_6,,,,,,,,,120,,,0.008090300892443114,Uncharacterized,Uncharacterized,
+SG_10,,,,,,,,,14,,True,0.0047472650553355145,Single_gene,Transcription,RNA polymerase sigma factor
+RpaC,,,,,,,,,31,,,0.03451539802787784,Uncharacterized,Uncharacterized,
+unchar_7,,,,,,,,,5,,,0.01050031141572283,Uncharacterized,Uncharacterized,
+SG_11,,,,,,,,,10,,True,0.001689711024963736,Single_gene,Uncharacterized,
+sps,ccmR,4.965228717762188e-10,9.930457435524376e-10,0.5,0.6666666666666666,0.5714285714285715,4.0,6.0,8,1.0,,0.002722572710020077,Genomic,Transport,accounts for sps deletion
+unchar_8,,,,,,,,,8,,,0.005294927724815657,Uncharacterized,Uncharacterized,
+SG_12,,,,,,,,,9,,True,0.00251412481423674,Single_gene,Uncharacterized,
+SG_13,,,,,,,,,8,,True,0.0021047222368046903,Single_gene,Uncharacterized,
+ribosome-2,,,,,,,,,14,,,0.010813571300321345,Functional,Translation,translation and ribosomal proteins
+unchar_9,,,,,,,,,4,,,0.0027508524155600567,Uncharacterized,Uncharacterized,
+unchar_10,,,,,,,,,21,,,0.006888498136164878,Uncharacterized,Uncharacterized,
+sufR,sufR,2.985368872701147e-13,2.985368872701147e-13,0.625,0.8333333333333334,0.7142857142857143,5.0,6.0,8,1.0,,0.005669915968546602,Regulatory,Metabolism,iron sulfur cluster
+unchar_11,,,,,,,,,8,,,0.023951195233587685,Uncharacterized,Uncharacterized,
+SG_14,,,,,,,,,10,,True,0.0020060569338365974,Single_gene,Uncharacterized,
