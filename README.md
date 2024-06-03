@@ -1,10 +1,10 @@
 # _S.elongatus_-iModulons
 
-This repository contains the files and scripts needed to calculate the iModulon structures for the cyanobacteria <i>Synechococcus elongatus<i>
+This repository contains the files and scripts needed to calculate the iModulon structures for the cyanobacteria _Synechococcus elongatus_
 
 The preprint of this paper can be found here: <u> Coming soon </u>
-
-The workflow is adapted from the iModulonMiner workflow here: https://github.com/SBRG/iModulonMiner 
+The iModulons generated from this study can be found on the [iModulonDB page](https://imodulondb.org/dataset.html?organism=s_elongatus&dataset=elprecise300) 
+The workflow is adapted from the [iModulonMiner](https://github.com/SBRG/iModulonMiner) workflow 
 
 Please cite the papers above if you use these data and workflows
 
